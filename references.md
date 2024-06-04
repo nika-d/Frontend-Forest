@@ -1,0 +1,1 @@
+By Oliver Herold - Own work, CC BY 3.0, https://commons.wikimedia.org/w/index.php?curid=2554341 

@@ -1,0 +1,1 @@
+Skaliert automatisch
