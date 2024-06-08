@@ -15,6 +15,10 @@ never stateless
 
 component based arch
 
+- forms
+- filters
+- copy&paste -> decorators
+
 different types of nodes
 layout, inner node, root, leaf
 
