@@ -19,6 +19,8 @@ component based arch
 - filters
 - copy&paste -> decorators
 
+debugging with dev tools leads directly to right component
+
 different types of nodes
 layout, inner node, root, leaf
 
