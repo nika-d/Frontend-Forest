@@ -21,6 +21,8 @@ component based arch
 
 debugging with dev tools leads directly to right component
 
+bei zentraler logik passt weger model noch prop (https://git.bihealth.org/llp/llp/-/merge_requests/674#note_285461)
+
 different types of nodes
 layout, inner node, root, leaf
 
