@@ -2,7 +2,7 @@
 
 ## Intro
 
-In Germany we say: "Wir sehen den Wald vor lauter Bäumen nicht." - "We dont see the forest because of all the trees."
+In Germany they say: "Wir sehen den Wald vor lauter Bäumen nicht." - "We dont see the forest because of all the trees."
 
 In Frontend, its the other way around, we stray through the forest of frameworks and dont see the big mother mamuth tree - the DOM.
 
