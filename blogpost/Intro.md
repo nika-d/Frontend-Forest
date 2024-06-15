@@ -2,11 +2,11 @@
 
 ## Intro
 
-In Germany we say: "Wir sehen den Wald vor lauter Bäumen nicht." - "We dont see the forest because of all the trees."
+In Germany they say: "Wir sehen den Wald vor lauter Bäumen nicht." - "We dont see the forest because of all the trees."
 
-In Frontend, its the other way around, we stray through the forest of frameworks and dont see the big mother mamuth tree - the DOM.
+In Frontend, its the other way around, we stray through the forest of frameworks and dont see the big mother Redwoodtree - the DOM.
 
-This article is about the DOM, which may guide us on the right path towards a frontend architecture independent of the framework.
+This article is about the DOM, which may guide us on the right path towards a natural frontend architecture.
 
 On the example of a form with input fields, we will compare a very common pattern of logic abstraction with a tree based approach. 
 Next we will write tests for both. There will be proof of concept code, and also one real world example. 
