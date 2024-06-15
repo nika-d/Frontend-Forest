@@ -4,7 +4,7 @@
 
 In Germany they say: "Wir sehen den Wald vor lauter Bäumen nicht." - "We dont see the forest because of all the trees."
 
-In Frontend, its the other way around, we stray through the forest of frameworks and dont see the big mother mamuth tree - the DOM.
+In Frontend, its the other way around, we stray through the forest of frameworks and dont see the big mother Redwoodtree - the DOM.
 
 This article is about the DOM, which may guide us on the right path towards a frontend architecture independent of the framework.
 
