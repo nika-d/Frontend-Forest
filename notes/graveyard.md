@@ -18,3 +18,16 @@ together in one file, and to have senseful bindings between components, not only
 Here is their talk:
 
 ![treeBased.png](..%2Fnotes%2FtreeBased.png)
+
+
+## Example form
+
+We have a form with two input fields I1 and I2, both of them are select fields. There are constraints:
+- I1 can only have values following the rules of C1.
+- I2 can only have values following the rules of C2.
+- The form is valid if both fields are valid and the combination of both fields is valid, that is described by C12.
+
+@todo concrete funny example.... two pets? clothes? two dishes for dinner?
+- To illlustrate the actual form example, it would help to present it as an actual example rather than I1, C1, etc.
+- If it's "If the user selects cat, we want to know what kind of cat it is", or something, because that's going to be easier
+- for the reader to grasp than a diagrammed flow chart.

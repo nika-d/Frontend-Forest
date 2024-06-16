@@ -8,3 +8,7 @@ https://webinale.de/digital-product-development/workshop-ddd-php-developers/
 - Martin
 
 egon.io 
+
+Charité , LLP code
+
+Playwright article, recommended architecture

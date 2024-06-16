@@ -20,44 +20,69 @@ and also old enough for having forgotten these solutions. So we just write a rem
 
 ## Example form
 
-We have a form with two input fields I1 and I2, both of them are select fields. There are constraints: 
-- I1 can only have values following the rules of C1. 
-- I2 can only have values following the rules of C2.
-- The form is valid if both fields are valid and the combination of both fields is valid, that is described by C12.
-
-@todo concrete funny example.... two pets? clothes? two dishes for dinner?    
-- To illlustrate the actual form example, it would help to present it as an actual example rather than I1, C1, etc. If it's "If the user selects cat, we want to know what kind of cat it is", or something, because that's going to be easier for the reader to grasp than a diagrammed flow chart.
+Lets say we have a filter form for shoes, with two input fields, one for the size and one for eco label. Both of them are selects, 
+we offer the sizes 2, 8 and 15 and the labels ANAB, Grassfield and Bio. The form has a submit button with the number of results in
+its text. 
 
 ## View and Controller
 
-Simplified MVC / MVVM .
+For this article, we simplify MVC/MVVM and use instead only a view and a controller. The model we consider to be part of the controller logic.  
 
-Not what its meant to be, but what we often see in large projects. 
+We have some html for the form, the two inputs and the submit button, this is our view. And we have some js gathering the users choices and
+calling backend to get the number of results. Of course, there are bindings between html and js, but the concrete type of binding does not matter, 
+you can imagine React/Svelte/jQuery, as you like. The controller has functions that are called on changes of the input fields, it also holds the 
+lists of possible choices and provides them to the inputs.
+
+Here is the proof of concept code: 
+
+And here are our tests: 
+
 
 ## Tree based
 
-## Pros and cons
+Here we consider the data representation to be part of the logic, too, and any binding framework is also assumed.
 
+We have three components, one for the form, one for the size input and one for the eco label input. Each of the components cares about 
+everything in their scope. SizeInput component encapsulates the `<input>` and its values, same for EcoLabelInput component, and the FilterForm
+arranges the input components and calls backend for results number.
 
-## @todos .... 
+Here is the proof of concept code:
 
-
-Why should I care? 
-
-Different architekture patterns applied to frontend. 
+And here are our tests:
 
 Testing with nullables
 
-DOM
+## Real world example code
+
+This code we made to compare the two approaches in an ongoing project. Users want to build a schedule for a semester at university. The dates and
+rooms are already done, now teachers have to be chosen for every lesson. In our form, one input field is for a teacher, one is for the teacher´s 
+institute. The institute choice is important for the accounting when semester ends. The form and inputs assists the user to make optimal choices.
+
+The code can be found here: 
+
+## Pros and cons
+
+| View and Controller                                                                                             | Tree based                                                                               |
+|-----------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------|
+| 👍  general use, very similar to backend, full stack devs apply same way of abstraction in frontend and backend | 👍 logic structure fits DOM structure                                                     | 
+|       👎 passt weder model noch prop (https://git.bihealth.org/llp/llp/-/merge_requests/674#note_285461)                                                                                                            | 👍 debugging with browser dev tools leads directly to right component                     |
+|                                                                                                                 | 👍 logic scales gracefully, its clear, where to put the logic for new features            |
+|                                                                                                                 | 👍 fits concepts of frontend frameworks focussing on components like React/Vue/Svelte/... |
+|                                                                                                                 | 👍 fits specific frontend testing concepts like recommended by Playwright/...             |
+
+
+## Misunderstood MVC and frameworks
+
+WHERE is MVC? not globally, but locally in every component.
+
+bei zentraler logik passt weder model noch prop (https://git.bihealth.org/llp/llp/-/merge_requests/674#note_285461)
+
 
 dont split view and logic
 
+## @todos .... 
+
 never stateless
-
-component based arch
-
-WHERE is MVC? not globally, but locally in every component. 
-
 
 - forms
 - filters
@@ -65,7 +90,6 @@ WHERE is MVC? not globally, but locally in every component.
 
 debugging with dev tools leads directly to right component
 
-bei zentraler logik passt weger model noch prop (https://git.bihealth.org/llp/llp/-/merge_requests/674#note_285461)
 
 different types of nodes
 layout, inner node, root, leaf
