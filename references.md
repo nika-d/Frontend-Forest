@@ -4,7 +4,7 @@ http://www.jamesshore.com/v2/projects/nullables/testing-without-mocks#nullables
 
 https://webinale.de/digital-product-development/workshop-ddd-php-developers/
 
-- Jonas
+- Jonas Jurczok (https://www.linkedin.com/in/jonas-jurczok-691738b9/)
 - Martin
 
 egon.io 
