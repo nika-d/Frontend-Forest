@@ -8,6 +8,8 @@ https://webinale.de/digital-product-development/workshop-ddd-php-developers/
 - Martin
 - Alfira
 
+real life example Frontend-Code LLP
+
 egon.io 
 
 Charité , LLP code
