@@ -6,6 +6,7 @@ https://webinale.de/digital-product-development/workshop-ddd-php-developers/
 
 - Jonas Jurczok (https://www.linkedin.com/in/jonas-jurczok-691738b9/)
 - Martin
+- Alfira
 
 egon.io 
 
