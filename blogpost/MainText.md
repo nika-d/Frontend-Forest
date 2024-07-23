@@ -84,8 +84,11 @@ dont split view and logic
 
 ```
 Eine Sache, die einem bei komplexeren Forms auf die Füße fallen wird sind Abhängigkeiten zwischen Feldern.
-Denn wenn du da eine komplexere Logik hast (3 Felder sind logisch gruppiert und gehören zusammen, ohne dass eins einen primären Filter repräsentiert) bekommt die Tree Architektur Probleme. Denn die Komplexität ist trotzdem da, nur sie ist dann unsichtbar im Zusammenspiel zwischen den Komponenten. Das kann tricky werden. (Jonas)
+Denn wenn du da eine komplexere Logik hast (3 Felder sind logisch gruppiert und gehören zusammen, ohne dass eins einen primären Filter repräsentiert) bekommt die Tree Architektur Probleme. Denn die Komplexität ist trotzdem da, nur sie ist dann unsichtbar im Zusammenspiel zwischen den Komponenten. Das kann tricky werden.
+(Jonas)
 ```
+
+depts in package.json und package-lock.json bereinigen
 
 never stateless
 
