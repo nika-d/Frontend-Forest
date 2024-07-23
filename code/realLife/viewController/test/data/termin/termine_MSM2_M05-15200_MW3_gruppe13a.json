@@ -1,0 +1,202 @@
+[
+    {
+        "id": "20212-2322-3._FS_1a-30b-1",
+        "veranstaltungsId": "77600",
+        "raumId": null,
+        "start": "2021-11-15T08:15:00+01:00",
+        "ende": "2021-11-15T08:30:00+01:00",
+        "campus": "eLive",
+        "treffpunkt": "https://online",
+        "gruppenbezeichnung": "1a-30b",
+        "lehrTaetigkeiten": [
+            {
+                "id": "81251",
+                "personId": "uUIV6Y9Lkl4l2XeO8AZahQoYQtg=",
+                "einrichtungsId": "163",
+                "ungeplanteEinrichtung": false
+            }
+        ],
+        "vertretungen": [],
+        "lehrendesFehlt": false,
+        "ohneLehrendeMitMeinerGeplantenEinrichtung": false
+    },
+    {
+        "id": "20212-544-3._FS_1a-30b-1",
+        "veranstaltungsId": "77602",
+        "raumId": null,
+        "start": "2021-11-15T08:30:00+01:00",
+        "ende": "2021-11-15T10:00:00+01:00",
+        "campus": "eLive",
+        "treffpunkt": "https://online",
+        "gruppenbezeichnung": "1a-30b",
+        "lehrTaetigkeiten": [
+            {
+                "id": "90724",
+                "personId": "/KXI3DufuRqk/SIzfWncdAjTf5A=",
+                "einrichtungsId": "128",
+                "ungeplanteEinrichtung": false
+            },
+            {
+                "id": "589923",
+                "personId": "00J2lj6tJ8APwu6cztcUq5hiPcg=",
+                "einrichtungsId": "15",
+                "ungeplanteEinrichtung": false
+            }
+        ],
+        "vertretungen": [],
+        "lehrendesFehlt": false,
+        "ohneLehrendeMitMeinerGeplantenEinrichtung": false
+    },
+    {
+        "id": "20212-452-3._FS_1a-30b-1",
+        "veranstaltungsId": "77603",
+        "raumId": null,
+        "start": "2021-11-15T10:15:00+01:00",
+        "ende": "2021-11-15T11:45:00+01:00",
+        "campus": "eLive",
+        "treffpunkt": "https://online",
+        "gruppenbezeichnung": "1a-30b",
+        "lehrTaetigkeiten": [
+            {
+                "id": "89111",
+                "personId": "BCRcOxcIuq31WCku45+xWwB8VT8=",
+                "einrichtungsId": "51",
+                "ungeplanteEinrichtung": false
+            },
+            {
+                "id": "589918",
+                "personId": "uWYkjQYfFJ0ZNDLFvlyYtr7eIKA=",
+                "einrichtungsId": "15",
+                "ungeplanteEinrichtung": true
+            },
+            {
+                "id": "658770",
+                "personId": "/KXI3DufuRqk/SIzfWncdAjTf5A=",
+                "einrichtungsId": "52",
+                "ungeplanteEinrichtung": false
+            }
+        ],
+        "vertretungen": [],
+        "lehrendesFehlt": false,
+        "ohneLehrendeMitMeinerGeplantenEinrichtung": false
+    },
+    {
+        "id": "20212-494-3._FS_1a-30b-1",
+        "veranstaltungsId": "77604",
+        "raumId": null,
+        "start": "2021-11-16T08:00:00+01:00",
+        "ende": "2021-11-16T09:30:00+01:00",
+        "campus": "eLive",
+        "treffpunkt": "https://online",
+        "gruppenbezeichnung": "1a-30b",
+        "lehrTaetigkeiten": [
+            {
+                "id": "89893",
+                "personId": "BCRcOxcIuq31WCku45+xWwB8VT8=",
+                "einrichtungsId": "84",
+                "ungeplanteEinrichtung": false
+            }
+        ],
+        "vertretungen": [],
+        "lehrendesFehlt": false,
+        "ohneLehrendeMitMeinerGeplantenEinrichtung": true
+    },
+    {
+        "id": "20212-520-3._FS_11b-14b-1",
+        "veranstaltungsId": "77605",
+        "raumId": null,
+        "start": "2021-11-19T10:00:00+01:00",
+        "ende": "2021-11-19T11:30:00+01:00",
+        "campus": "eLive",
+        "treffpunkt": "https://online",
+        "gruppenbezeichnung": "11b-14b",
+        "lehrTaetigkeiten": [
+            {
+                "id": "90480",
+                "personId": "uWYkjQYfFJ0ZNDLFvlyYtr7eIKA=",
+                "einrichtungsId": "39",
+                "ungeplanteEinrichtung": false
+            }
+        ],
+        "vertretungen": [],
+        "lehrendesFehlt": false,
+        "ohneLehrendeMitMeinerGeplantenEinrichtung": true
+    },
+    {
+        "id": "20212-5781-3._FS_11b-14b-1",
+        "veranstaltungsId": "77606",
+        "raumId": null,
+        "start": "2021-11-19T14:30:00+01:00",
+        "ende": "2021-11-19T16:00:00+01:00",
+        "campus": "eLive",
+        "treffpunkt": "https://online",
+        "gruppenbezeichnung": "11b-14b",
+        "lehrTaetigkeiten": [
+            {
+                "id": "90826",
+                "personId": "uUIV6Y9Lkl4l2XeO8AZahQoYQtg=",
+                "einrichtungsId": "15",
+                "ungeplanteEinrichtung": false
+            }
+        ],
+        "vertretungen": [],
+        "lehrendesFehlt": false,
+        "ohneLehrendeMitMeinerGeplantenEinrichtung": false
+    },
+    {
+        "id": "20212-580-3._FS_11b-14b-1",
+        "veranstaltungsId": "77607",
+        "raumId": null,
+        "start": "2021-11-19T16:15:00+01:00",
+        "ende": "2021-11-19T17:45:00+01:00",
+        "campus": "eLive",
+        "treffpunkt": "https://online",
+        "gruppenbezeichnung": "11b-14b",
+        "lehrTaetigkeiten": [
+            {
+                "id": "90909",
+                "personId": "JIelQztLfkT8TMvYj19PKzg2jGk=",
+                "einrichtungsId": "20",
+                "ungeplanteEinrichtung": false
+            }
+        ],
+        "vertretungen": [],
+        "lehrendesFehlt": false,
+        "ohneLehrendeMitMeinerGeplantenEinrichtung": false
+    },
+    {
+        "id": "20212-613A-3._FS_13a-15b-1",
+        "veranstaltungsId": "77608",
+        "raumId": 2002,
+        "start": "2021-11-17T08:15:00+01:00",
+        "ende": "2021-11-17T09:45:00+01:00",
+        "campus": "CCM",
+        "treffpunkt": "Müller-Saal (Wilhelm Waldeyer-Haus, Anatomie), Philippstr. 11, 10115 Berlin",
+        "gruppenbezeichnung": "13a-15b",
+        "lehrTaetigkeiten": [
+            {
+                "id": "91644",
+                "personId": "JIelQztLfkT8TMvYj19PKzg2jGk=",
+                "einrichtungsId": "15",
+                "ungeplanteEinrichtung": false
+            }
+        ],
+        "vertretungen": [],
+        "lehrendesFehlt": false,
+        "ohneLehrendeMitMeinerGeplantenEinrichtung": false
+    },
+    {
+        "id": "20212-2314-3._FS_13a-13b-1",
+        "veranstaltungsId": "74476",
+        "raumId": "3014",
+        "start": "2021-11-16T16:00:00+01:00",
+        "ende": "2021-11-16T18:00:00+01:00",
+        "campus": "CBF",
+        "treffpunkt": "",
+        "gruppenbezeichnung": "13a-13b",
+        "lehrTaetigkeiten": [],
+        "vertretungen": [],
+        "lehrendesFehlt": true,
+        "ohneLehrendeMitMeinerGeplantenEinrichtung": true
+    }
+]

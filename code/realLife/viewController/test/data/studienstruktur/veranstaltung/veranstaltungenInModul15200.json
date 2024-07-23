@@ -1,0 +1,122 @@
+[
+    {
+        "id": 74476,
+        "modulId": 15200,
+        "submodulId": 1520003,
+        "unterLehrformatId": 814,
+        "nummer": 1405,
+        "langTitel": "Wiederholung und Vertiefung Patientenuntersuchung: Thorax/ Lunge - Termin 10"
+    },
+    {
+        "id": 77600,
+        "modulId": 15200,
+        "submodulId": 1520003,
+        "unterLehrformatId": 330,
+        "nummer": 2322,
+        "langTitel": "Organisatorische Einführung Modul 10"
+    },
+    {
+        "id": 77601,
+        "modulId": 15200,
+        "submodulId": 1520003,
+        "unterLehrformatId": 832,
+        "nummer": 581,
+        "langTitel": "POL M10-1"
+    },
+    {
+        "id": 77602,
+        "modulId": 15200,
+        "submodulId": 1520003,
+        "unterLehrformatId": 303,
+        "nummer": 544,
+        "langTitel": "Das Muskuloskelettale System | Einführung"
+    },
+    {
+        "id": 77603,
+        "modulId": 15200,
+        "submodulId": 1520003,
+        "unterLehrformatId": 301,
+        "nummer": 452,
+        "langTitel": "Ars longa - ossa brevia | Knochenarchitektur, -funktion und -fraktur"
+    },
+    {
+        "id": 77604,
+        "modulId": 15200,
+        "submodulId": 1520003,
+        "unterLehrformatId": 302,
+        "nummer": 494,
+        "langTitel": "Das breite Spektrum der Gangstörungen"
+    },
+    {
+        "id": 77605,
+        "modulId": 15200,
+        "submodulId": 1520003,
+        "unterLehrformatId": 833,
+        "nummer": 520,
+        "langTitel": "Besonderheiten des Knochenstoffwechsels"
+    },
+    {
+        "id": 77606,
+        "modulId": 15200,
+        "submodulId": 1520003,
+        "unterLehrformatId": 835,
+        "nummer": 5781,
+        "langTitel": "Praktische Anatomie und Bildgebung | Hüfte und Knie"
+    },
+    {
+        "id": 77607,
+        "modulId": 15200,
+        "submodulId": 1520003,
+        "unterLehrformatId": 833,
+        "nummer": 580,
+        "langTitel": "Physikalisch-Chemische Eigenschaften biologischer Materialien"
+    },
+    {
+        "id": 77608,
+        "modulId": 15200,
+        "submodulId": 1520003,
+        "unterLehrformatId": 676,
+        "nummer": 613,
+        "langTitel": "Anatomische Präparation"
+    },
+    {
+        "id": 77619,
+        "modulId": 15200,
+        "submodulId": 1520003,
+        "unterLehrformatId": 832,
+        "nummer": 1154,
+        "langTitel": "POL M10-3"
+    },
+    {
+        "id": 77629,
+        "modulId": 15200,
+        "submodulId": 1520004,
+        "unterLehrformatId": 832,
+        "nummer": 656,
+        "langTitel": "POL M10-4"
+    },
+    {
+        "id": 77630,
+        "modulId": 15200,
+        "submodulId": 1520004,
+        "unterLehrformatId": 302,
+        "nummer": 534,
+        "langTitel": "Einführung in die motorische Steuerung"
+    },
+    {
+        "id": 77634,
+        "modulId": 15200,
+        "submodulId": 1520004,
+        "unterLehrformatId": 833,
+        "nummer": 532,
+        "langTitel": "Grundlagen der Spinalmotorik"
+    },
+    {
+        "id": 77637,
+        "modulId": 15200,
+        "submodulId": 1520004,
+        "unterLehrformatId": 838,
+        "nummer": 33805,
+        "langTitel": "Elektrophysiologie peripherer Reflexe"
+    }
+]

@@ -1,0 +1,2564 @@
+[
+    {
+        "id": 1,
+        "titel": "Interdisziplinäre Vorlesung",
+        "oberLehrformat": "Vorlesung",
+        "studiengangsId": 1,
+        "rang": 3
+    },
+    {
+        "id": 2,
+        "titel": "Fachvorlesung",
+        "oberLehrformat": "Vorlesung",
+        "studiengangsId": 1,
+        "rang": 3
+    },
+    {
+        "id": 3,
+        "titel": "Patientenvorstellung (Vorlesung)",
+        "oberLehrformat": "Vorlesung",
+        "studiengangsId": 1,
+        "rang": 3
+    },
+    {
+        "id": 4,
+        "titel": "blended learning Vorlesung",
+        "oberLehrformat": "Vorlesung",
+        "studiengangsId": 1,
+        "rang": 4
+    },
+    {
+        "id": 5,
+        "titel": "Interdisziplinäres Seminar",
+        "oberLehrformat": "Seminar",
+        "studiengangsId": 1,
+        "rang": 5
+    },
+    {
+        "id": 6,
+        "titel": "Fachseminar",
+        "oberLehrformat": "Seminar",
+        "studiengangsId": 1,
+        "rang": 5
+    },
+    {
+        "id": 8,
+        "titel": "Fachseminar",
+        "oberLehrformat": "Seminar",
+        "studiengangsId": 1,
+        "rang": 5
+    },
+    {
+        "id": 9,
+        "titel": "GÄDH-Seminar",
+        "oberLehrformat": "Seminar",
+        "studiengangsId": 1,
+        "rang": 0
+    },
+    {
+        "id": 10,
+        "titel": "blended learning Seminar",
+        "oberLehrformat": "Seminar",
+        "studiengangsId": 1,
+        "rang": 6
+    },
+    {
+        "id": 11,
+        "titel": "Fachpraktikum",
+        "oberLehrformat": "Praktikum",
+        "studiengangsId": 1,
+        "rang": 7
+    },
+    {
+        "id": 12,
+        "titel": "Präparierkurs",
+        "oberLehrformat": "Praktikum",
+        "studiengangsId": 1,
+        "rang": 8
+    },
+    {
+        "id": 13,
+        "titel": "Kleingruppenpraktikum",
+        "oberLehrformat": "Kleingruppenpraktikum",
+        "studiengangsId": 1,
+        "rang": 9
+    },
+    {
+        "id": 14,
+        "titel": "Untersuchungskurs",
+        "oberLehrformat": "UK",
+        "studiengangsId": 1,
+        "rang": 12
+    },
+    {
+        "id": 15,
+        "titel": "Interdisziplinäre Simulation",
+        "oberLehrformat": "Simulation",
+        "studiengangsId": 1,
+        "rang": 13
+    },
+    {
+        "id": 17,
+        "titel": "Kommunikation, Interaktion, Teamarbeit",
+        "oberLehrformat": "KIT",
+        "studiengangsId": 1,
+        "rang": 11
+    },
+    {
+        "id": 18,
+        "titel": "Problemorientiertes Lernen",
+        "oberLehrformat": "POL",
+        "studiengangsId": 1,
+        "rang": 2
+    },
+    {
+        "id": 19,
+        "titel": "Praxistag",
+        "oberLehrformat": "Praxistag",
+        "studiengangsId": 1,
+        "rang": 11
+    },
+    {
+        "id": 20,
+        "titel": "SPU∕PNU",
+        "oberLehrformat": "SPU∕PNU",
+        "studiengangsId": 1,
+        "rang": 51
+    },
+    {
+        "id": 21,
+        "titel": "Seminar zum SPU∕PNU",
+        "oberLehrformat": "Seminar",
+        "studiengangsId": 1,
+        "rang": 52
+    },
+    {
+        "id": 22,
+        "titel": "Fachvorlesung",
+        "oberLehrformat": "Vorlesung",
+        "studiengangsId": 1,
+        "rang": 10
+    },
+    {
+        "id": 23,
+        "titel": "Interdisziplinäre Vorlesung",
+        "oberLehrformat": "Vorlesung",
+        "studiengangsId": 1,
+        "rang": 10
+    },
+    {
+        "id": 24,
+        "titel": "Patientenvorstellung (Vorlesung)",
+        "oberLehrformat": "Vorlesung",
+        "studiengangsId": 1,
+        "rang": 14
+    },
+    {
+        "id": 25,
+        "titel": "Fachvorlesung",
+        "oberLehrformat": "Vorlesung",
+        "studiengangsId": 1,
+        "rang": 14
+    },
+    {
+        "id": 26,
+        "titel": "Interdisziplinäre Vorlesung",
+        "oberLehrformat": "Vorlesung",
+        "studiengangsId": 1,
+        "rang": 14
+    },
+    {
+        "id": 27,
+        "titel": "Patientenvorstellung (Vorlesung)",
+        "oberLehrformat": "Vorlesung",
+        "studiengangsId": 1,
+        "rang": 10
+    },
+    {
+        "id": 28,
+        "titel": "Fachpraktikum",
+        "oberLehrformat": "Praktikum",
+        "studiengangsId": 1,
+        "rang": 3
+    },
+    {
+        "id": 30,
+        "titel": "Einführung",
+        "oberLehrformat": "Vor∕Nachbesprechung",
+        "studiengangsId": 1,
+        "rang": 0
+    },
+    {
+        "id": 31,
+        "titel": "Vortrag",
+        "oberLehrformat": "Vortrag",
+        "studiengangsId": 1,
+        "rang": 0
+    },
+    {
+        "id": 32,
+        "titel": "Wahlpflichtmodul",
+        "oberLehrformat": "Wahlpflichtmodul",
+        "studiengangsId": 1,
+        "rang": 0
+    },
+    {
+        "id": 33,
+        "titel": "Vortrag",
+        "oberLehrformat": "Vortrag",
+        "studiengangsId": 1,
+        "rang": 0
+    },
+    {
+        "id": 34,
+        "titel": "Nachbesprechung∕Modulworkshop",
+        "oberLehrformat": "Vor∕Nachbesprechung",
+        "studiengangsId": 1,
+        "rang": 90
+    },
+    {
+        "id": 35,
+        "titel": "Vortrag",
+        "oberLehrformat": "Vortrag",
+        "studiengangsId": 1,
+        "rang": 0
+    },
+    {
+        "id": 36,
+        "titel": "Präparierkurs",
+        "oberLehrformat": "Praktikum",
+        "studiengangsId": 1,
+        "rang": 21
+    },
+    {
+        "id": 37,
+        "titel": "Fachseminar",
+        "oberLehrformat": "Seminar",
+        "studiengangsId": 1,
+        "rang": 20
+    },
+    {
+        "id": 38,
+        "titel": "Interdisziplinäres Seminar",
+        "oberLehrformat": "Seminar",
+        "studiengangsId": 1,
+        "rang": 20
+    },
+    {
+        "id": 39,
+        "titel": "Fachseminar",
+        "oberLehrformat": "Seminar",
+        "studiengangsId": 1,
+        "rang": 20
+    },
+    {
+        "id": 40,
+        "titel": "Problemorientiertes Lernen",
+        "oberLehrformat": "POL",
+        "studiengangsId": 1,
+        "rang": 2
+    },
+    {
+        "id": 41,
+        "titel": "supervidiertes wiss. Arbeiten",
+        "oberLehrformat": "Kleingruppenpraktikum",
+        "studiengangsId": 1,
+        "rang": 70
+    },
+    {
+        "id": 42,
+        "titel": "praktisches wiss. Arbeiten",
+        "oberLehrformat": "Kleingruppenpraktikum",
+        "studiengangsId": 1,
+        "rang": 69
+    },
+    {
+        "id": 43,
+        "titel": "Abschlusspräsentation",
+        "oberLehrformat": "Praktikum",
+        "studiengangsId": 1,
+        "rang": 89
+    },
+    {
+        "id": 44,
+        "titel": "Vortrag",
+        "oberLehrformat": "Vortrag",
+        "studiengangsId": 1,
+        "rang": 30
+    },
+    {
+        "id": 45,
+        "titel": "Kommunikation, Interaktion, Teamarbeit",
+        "oberLehrformat": "KIT",
+        "studiengangsId": 1,
+        "rang": 20
+    },
+    {
+        "id": 46,
+        "titel": "Blockpraktikum",
+        "oberLehrformat": "Blockpraktikum",
+        "studiengangsId": 1,
+        "rang": 0
+    },
+    {
+        "id": 47,
+        "titel": "Blockpraktikum",
+        "oberLehrformat": "Blockpraktikum",
+        "studiengangsId": 1,
+        "rang": 100
+    },
+    {
+        "id": 48,
+        "titel": "Blockpraktikum",
+        "oberLehrformat": "Blockpraktikum",
+        "studiengangsId": 1,
+        "rang": 100
+    },
+    {
+        "id": 50,
+        "titel": "PTM",
+        "oberLehrformat": "PTM",
+        "studiengangsId": 1,
+        "rang": 0
+    },
+    {
+        "id": 51,
+        "titel": "Blockbezogene Lernziele",
+        "oberLehrformat": "Reformstudiengang",
+        "studiengangsId": 2,
+        "rang": 0
+    },
+    {
+        "id": 52,
+        "titel": "Seminar RSM",
+        "oberLehrformat": "Seminar RSM",
+        "studiengangsId": 2,
+        "rang": 6
+    },
+    {
+        "id": 53,
+        "titel": "Interdisziplinäres Seminar RSM",
+        "oberLehrformat": "Seminar RSM",
+        "studiengangsId": 2,
+        "rang": 6
+    },
+    {
+        "id": 54,
+        "titel": "Vorlesung RSM",
+        "oberLehrformat": "Vorlesung RSM",
+        "studiengangsId": 2,
+        "rang": 3
+    },
+    {
+        "id": 55,
+        "titel": "Problemorientiertes Lernen RSM",
+        "oberLehrformat": "Problemorientiertes Lernen (POL) RSM",
+        "studiengangsId": 2,
+        "rang": 2
+    },
+    {
+        "id": 56,
+        "titel": "Interaktion",
+        "oberLehrformat": "Interaktion",
+        "studiengangsId": 2,
+        "rang": 11
+    },
+    {
+        "id": 57,
+        "titel": "Methoden wissenschaftlichen Arbeitens",
+        "oberLehrformat": "Methoden wissenschaftlichen Arbeitens",
+        "studiengangsId": 2,
+        "rang": 7
+    },
+    {
+        "id": 58,
+        "titel": "Übung",
+        "oberLehrformat": "Übung",
+        "studiengangsId": 2,
+        "rang": 50
+    },
+    {
+        "id": 59,
+        "titel": "Praktikum RSM",
+        "oberLehrformat": "Praktikum RSM",
+        "studiengangsId": 2,
+        "rang": 7
+    },
+    {
+        "id": 60,
+        "titel": "Blockpraktikum RSM",
+        "oberLehrformat": "Blockpraktikum RSM",
+        "studiengangsId": 2,
+        "rang": 7
+    },
+    {
+        "id": 61,
+        "titel": "Blockeinführung",
+        "oberLehrformat": "Blockeinführung",
+        "studiengangsId": 2,
+        "rang": 0
+    },
+    {
+        "id": 62,
+        "titel": "Abschlussbesprechung",
+        "oberLehrformat": "Abschlussbesprechung",
+        "studiengangsId": 2,
+        "rang": 80
+    },
+    {
+        "id": 63,
+        "titel": "Vorlesung (RSG)",
+        "oberLehrformat": "Vorlesung (RSG)",
+        "studiengangsId": 3,
+        "rang": 1
+    },
+    {
+        "id": 64,
+        "titel": "Praktikum (RSG)",
+        "oberLehrformat": "Praktikum (RSG)",
+        "studiengangsId": 3,
+        "rang": 3
+    },
+    {
+        "id": 65,
+        "titel": "Seminar (RSG)",
+        "oberLehrformat": "Seminar (RSG)",
+        "studiengangsId": 3,
+        "rang": 2
+    },
+    {
+        "id": 66,
+        "titel": "Unterricht am Krankenbett",
+        "oberLehrformat": "Unterricht am Krankenbett",
+        "studiengangsId": 3,
+        "rang": 4
+    },
+    {
+        "id": 67,
+        "titel": "extracurriculare Veranstaltung (RSG)",
+        "oberLehrformat": "extracurriculare Veranstaltung (RSG)",
+        "studiengangsId": 3,
+        "rang": 5
+    },
+    {
+        "id": 68,
+        "titel": "Interaktive Fallbesprechung",
+        "oberLehrformat": "Seminar",
+        "studiengangsId": 1,
+        "rang": 52
+    },
+    {
+        "id": 69,
+        "titel": "fachübergreifendes Seminar",
+        "oberLehrformat": "Seminar",
+        "studiengangsId": 1,
+        "rang": 5
+    },
+    {
+        "id": 70,
+        "titel": "Unterricht am Krankenbett (BP)",
+        "oberLehrformat": "Unterricht am Krankenbett",
+        "studiengangsId": 3,
+        "rang": 4
+    },
+    {
+        "id": 71,
+        "titel": "Unterricht am Krankenbett (Notfall)",
+        "oberLehrformat": "Unterricht am Krankenbett",
+        "studiengangsId": 3,
+        "rang": 4
+    },
+    {
+        "id": 73,
+        "titel": "SPU∕PNU",
+        "oberLehrformat": "SPU∕PNU",
+        "studiengangsId": 1,
+        "rang": 51
+    },
+    {
+        "id": 74,
+        "titel": "Interdisziplinäre Simulation",
+        "oberLehrformat": "Simulation",
+        "studiengangsId": 1,
+        "rang": 13
+    },
+    {
+        "id": 75,
+        "titel": "Nachbesprechung∕Modulworkshop",
+        "oberLehrformat": "Vor∕Nachbesprechung",
+        "studiengangsId": 1,
+        "rang": 90
+    },
+    {
+        "id": 76,
+        "titel": "Wahlpflichtmodul",
+        "oberLehrformat": "Wahlpflichtmodul",
+        "studiengangsId": 1,
+        "rang": 0
+    },
+    {
+        "id": 98,
+        "titel": "blended learning Vorlesung",
+        "oberLehrformat": "Vorlesung",
+        "studiengangsId": 1,
+        "rang": 10
+    },
+    {
+        "id": 99,
+        "titel": "blended learning Vorlesung",
+        "oberLehrformat": "Vorlesung",
+        "studiengangsId": 1,
+        "rang": 10
+    },
+    {
+        "id": 100,
+        "titel": "Vorlesung zum SPU∕PNU",
+        "oberLehrformat": "Vorlesung",
+        "studiengangsId": 1,
+        "rang": 3
+    },
+    {
+        "id": 101,
+        "titel": "Progress Test Medizin",
+        "oberLehrformat": "Regelstudiengang",
+        "studiengangsId": 3,
+        "rang": 0
+    },
+    {
+        "id": 103,
+        "titel": "Progress Test Medizin",
+        "oberLehrformat": "Reformstudiengang",
+        "studiengangsId": 2,
+        "rang": 0
+    },
+    {
+        "id": 104,
+        "titel": "Praxiswoche",
+        "oberLehrformat": "Praxistag",
+        "studiengangsId": 1,
+        "rang": 0
+    },
+    {
+        "id": 200,
+        "titel": "Vorlesung",
+        "oberLehrformat": "Vorlesung",
+        "studiengangsId": 4,
+        "rang": 0
+    },
+    {
+        "id": 201,
+        "titel": "Praktikum",
+        "oberLehrformat": "Praktikum",
+        "studiengangsId": 4,
+        "rang": 0
+    },
+    {
+        "id": 202,
+        "titel": "Vortrag",
+        "oberLehrformat": "Vortrag",
+        "studiengangsId": 4,
+        "rang": 0
+    },
+    {
+        "id": 203,
+        "titel": "Freies Üben",
+        "oberLehrformat": "Freies Üben",
+        "studiengangsId": 4,
+        "rang": 0
+    },
+    {
+        "id": 204,
+        "titel": "Kurs (Röntgen)",
+        "oberLehrformat": "Kurs (Röntgen)",
+        "studiengangsId": 4,
+        "rang": 0
+    },
+    {
+        "id": 205,
+        "titel": "Phantomkurs a",
+        "oberLehrformat": "Phantomkurs",
+        "studiengangsId": 4,
+        "rang": 0
+    },
+    {
+        "id": 206,
+        "titel": "Phantomkurs b",
+        "oberLehrformat": "Phantomkurs",
+        "studiengangsId": 4,
+        "rang": 0
+    },
+    {
+        "id": 207,
+        "titel": "Behandlungskurs (Zahnerhaltung/Zahnersatz)12",
+        "oberLehrformat": "Behandlungskurs_Zahner",
+        "studiengangsId": 4,
+        "rang": 0
+    },
+    {
+        "id": 208,
+        "titel": "Behandlungskurs (Zahnerhaltung/Zahnersatz)6",
+        "oberLehrformat": "Behandlungskurs_Zahner",
+        "studiengangsId": 4,
+        "rang": 0
+    },
+    {
+        "id": 209,
+        "titel": "Behandlungskurs (Zahnerhaltung/Zahnersatz)20",
+        "oberLehrformat": "Behandlungskurs_Zahner",
+        "studiengangsId": 4,
+        "rang": 0
+    },
+    {
+        "id": 210,
+        "titel": "Behandlungskurs (KfO OP-Kurs)20",
+        "oberLehrformat": "Behandlungskurs_KFO_OP",
+        "studiengangsId": 4,
+        "rang": 0
+    },
+    {
+        "id": 211,
+        "titel": "Behandlungskurs (KfO OP-Kurs)12",
+        "oberLehrformat": "Behandlungskurs_KFO_OP",
+        "studiengangsId": 4,
+        "rang": 0
+    },
+    {
+        "id": 212,
+        "titel": "Behandlungskurs (KfO OP-Kurs)20",
+        "oberLehrformat": "Behandlungskurs_KFO_OP",
+        "studiengangsId": 4,
+        "rang": 0
+    },
+    {
+        "id": 213,
+        "titel": "Problemorientiertes Lernen",
+        "oberLehrformat": "Problemorientiertes Lernen",
+        "studiengangsId": 4,
+        "rang": 0
+    },
+    {
+        "id": 250,
+        "titel": "Übung",
+        "oberLehrformat": "Übung (GEWI)",
+        "studiengangsId": 5,
+        "rang": 0
+    },
+    {
+        "id": 251,
+        "titel": "Seminar",
+        "oberLehrformat": "Seminar (GEWI)",
+        "studiengangsId": 5,
+        "rang": 0
+    },
+    {
+        "id": 252,
+        "titel": "Projektseminar",
+        "oberLehrformat": "Projektseminar (GEWI)",
+        "studiengangsId": 5,
+        "rang": 0
+    },
+    {
+        "id": 253,
+        "titel": "Abschlusskolloquium",
+        "oberLehrformat": "Abschluss Kolloquium (GEWI)",
+        "studiengangsId": 5,
+        "rang": 0
+    },
+    {
+        "id": 254,
+        "titel": "Praxisseminar",
+        "oberLehrformat": "Praxisseminar (GEWI)",
+        "studiengangsId": 5,
+        "rang": 0
+    },
+    {
+        "id": 255,
+        "titel": "Tutorium",
+        "oberLehrformat": "Tutorium (GEWI)",
+        "studiengangsId": 5,
+        "rang": 0
+    },
+    {
+        "id": 256,
+        "titel": "Vorlesung",
+        "oberLehrformat": "Vorlesung (GEWI",
+        "studiengangsId": 5,
+        "rang": 0
+    },
+    {
+        "id": 257,
+        "titel": "Praktikum Großgruppe",
+        "oberLehrformat": "Praktikum",
+        "studiengangsId": 1,
+        "rang": 7
+    },
+    {
+        "id": 258,
+        "titel": "SeminarU",
+        "oberLehrformat": "seminaristischer Unterricht (GEWI)",
+        "studiengangsId": 5,
+        "rang": 0
+    },
+    {
+        "id": 259,
+        "titel": "Prakikum",
+        "oberLehrformat": "Prakikum (GEWI)",
+        "studiengangsId": 5,
+        "rang": 0
+    },
+    {
+        "id": 260,
+        "titel": "SeminarU",
+        "oberLehrformat": "seminaristischer Unterricht (MHPE)",
+        "studiengangsId": 7,
+        "rang": 0
+    },
+    {
+        "id": 261,
+        "titel": "Vorlesung",
+        "oberLehrformat": "Vorlesung (MHPE)",
+        "studiengangsId": 7,
+        "rang": 0
+    },
+    {
+        "id": 262,
+        "titel": "Seminar",
+        "oberLehrformat": "Seminar (MHPE)",
+        "studiengangsId": 7,
+        "rang": 0
+    },
+    {
+        "id": 263,
+        "titel": "Projektseminar",
+        "oberLehrformat": "Projektseminar (MHPE)",
+        "studiengangsId": 7,
+        "rang": 0
+    },
+    {
+        "id": 264,
+        "titel": "Abschluss Kolloquium ",
+        "oberLehrformat": "Abschluss Kolloquium (MHPE)",
+        "studiengangsId": 7,
+        "rang": 0
+    },
+    {
+        "id": 265,
+        "titel": "Praktikum",
+        "oberLehrformat": "Praktikum (MHPE)",
+        "studiengangsId": 7,
+        "rang": 0
+    },
+    {
+        "id": 266,
+        "titel": "Praxisseminar",
+        "oberLehrformat": "Projektseminar (MHPE)",
+        "studiengangsId": 7,
+        "rang": 0
+    },
+    {
+        "id": 267,
+        "titel": "Seminar",
+        "oberLehrformat": "Seminar (MHPE)",
+        "studiengangsId": 7,
+        "rang": 0
+    },
+    {
+        "id": 280,
+        "titel": "Grundkurs_k4",
+        "oberLehrformat": "Vorlesung VL60 (MScPH)",
+        "studiengangsId": 8,
+        "rang": 0
+    },
+    {
+        "id": 281,
+        "titel": "Seminar_k6",
+        "oberLehrformat": "Seminar",
+        "studiengangsId": 8,
+        "rang": 0
+    },
+    {
+        "id": 282,
+        "titel": "SeminarU_k7",
+        "oberLehrformat": "seminaristischer Unterricht (MScPH)",
+        "studiengangsId": 8,
+        "rang": 0
+    },
+    {
+        "id": 283,
+        "titel": "Vorlesung_k3",
+        "oberLehrformat": "Vorlesung VL90 (MScPH)",
+        "studiengangsId": 8,
+        "rang": 0
+    },
+    {
+        "id": 284,
+        "titel": "Masterarbeit_k22",
+        "oberLehrformat": "Masterarbeit (MScPH)",
+        "studiengangsId": 8,
+        "rang": 0
+    },
+    {
+        "id": 301,
+        "titel": "Vorlesung, interdisziplinär",
+        "oberLehrformat": "Vorlesung",
+        "studiengangsId": 6,
+        "rang": 3
+    },
+    {
+        "id": 302,
+        "titel": "Vorlesung, Fachvorlesung",
+        "oberLehrformat": "Vorlesung",
+        "studiengangsId": 6,
+        "rang": 3
+    },
+    {
+        "id": 303,
+        "titel": "Vorlesung, Patientenvorstellung",
+        "oberLehrformat": "Vorlesung",
+        "studiengangsId": 6,
+        "rang": 3
+    },
+    {
+        "id": 304,
+        "titel": "eLearning Vorlesung",
+        "oberLehrformat": "Vorlesung",
+        "studiengangsId": 6,
+        "rang": 3
+    },
+    {
+        "id": 305,
+        "titel": "Seminar, interdisziplinär",
+        "oberLehrformat": "Seminar",
+        "studiengangsId": 6,
+        "rang": 5
+    },
+    {
+        "id": 306,
+        "titel": "Seminar, Fachseminar",
+        "oberLehrformat": "Seminar",
+        "studiengangsId": 6,
+        "rang": 5
+    },
+    {
+        "id": 307,
+        "titel": "Vorlesung, blended learning",
+        "oberLehrformat": "Vorlesung",
+        "studiengangsId": 6,
+        "rang": 3
+    },
+    {
+        "id": 308,
+        "titel": "Fachseminar",
+        "oberLehrformat": "Seminar",
+        "studiengangsId": 6,
+        "rang": 5
+    },
+    {
+        "id": 309,
+        "titel": "Seminar, GäDH",
+        "oberLehrformat": "GäDH",
+        "studiengangsId": 6,
+        "rang": 0
+    },
+    {
+        "id": 310,
+        "titel": "Seminar, blended learning",
+        "oberLehrformat": "Seminar",
+        "studiengangsId": 6,
+        "rang": 6
+    },
+    {
+        "id": 311,
+        "titel": "Praktikum Großgruppe",
+        "oberLehrformat": "Praktikum",
+        "studiengangsId": 6,
+        "rang": 7
+    },
+    {
+        "id": 312,
+        "titel": "Präparierkurs",
+        "oberLehrformat": "Praktikum",
+        "studiengangsId": 6,
+        "rang": 8
+    },
+    {
+        "id": 313,
+        "titel": "Praktikum Kleingruppe",
+        "oberLehrformat": "Praktikum",
+        "studiengangsId": 6,
+        "rang": 7
+    },
+    {
+        "id": 314,
+        "titel": "Untersuchungskurs",
+        "oberLehrformat": "UK",
+        "studiengangsId": 6,
+        "rang": 12
+    },
+    {
+        "id": 315,
+        "titel": "Interdisziplinäre Simulation",
+        "oberLehrformat": "Simulation",
+        "studiengangsId": 6,
+        "rang": 7
+    },
+    {
+        "id": 317,
+        "titel": "Kommunikation Interaktion Teamarbeit",
+        "oberLehrformat": "KIT",
+        "studiengangsId": 6,
+        "rang": 11
+    },
+    {
+        "id": 318,
+        "titel": "Problemorientiertes Lernen",
+        "oberLehrformat": "POL",
+        "studiengangsId": 6,
+        "rang": 2
+    },
+    {
+        "id": 319,
+        "titel": "Obsolet",
+        "oberLehrformat": "Obsolet",
+        "studiengangsId": 6,
+        "rang": 11
+    },
+    {
+        "id": 320,
+        "titel": "Obsolet",
+        "oberLehrformat": "Obsolet",
+        "studiengangsId": 6,
+        "rang": 51
+    },
+    {
+        "id": 321,
+        "titel": "Obsolet",
+        "oberLehrformat": "Obsolet",
+        "studiengangsId": 6,
+        "rang": 52
+    },
+    {
+        "id": 322,
+        "titel": "Fachvorlesung",
+        "oberLehrformat": "Vorlesung",
+        "studiengangsId": 6,
+        "rang": 10
+    },
+    {
+        "id": 323,
+        "titel": "Interdisziplinäre Vorlesung",
+        "oberLehrformat": "Vorlesung",
+        "studiengangsId": 6,
+        "rang": 10
+    },
+    {
+        "id": 324,
+        "titel": "Patientenvorstellung",
+        "oberLehrformat": "Vorlesung",
+        "studiengangsId": 6,
+        "rang": 14
+    },
+    {
+        "id": 325,
+        "titel": "Fachvorlesung",
+        "oberLehrformat": "Vorlesung",
+        "studiengangsId": 6,
+        "rang": 14
+    },
+    {
+        "id": 326,
+        "titel": "Interdisziplinäre Vorlesung",
+        "oberLehrformat": "Vorlesung",
+        "studiengangsId": 6,
+        "rang": 14
+    },
+    {
+        "id": 327,
+        "titel": "Patientenvorstellung",
+        "oberLehrformat": "Vorlesung",
+        "studiengangsId": 6,
+        "rang": 10
+    },
+    {
+        "id": 329,
+        "titel": "Modulunterstützende Vorlesung",
+        "oberLehrformat": "Vorlesung",
+        "studiengangsId": 6,
+        "rang": 3
+    },
+    {
+        "id": 330,
+        "titel": "Moduleinführung",
+        "oberLehrformat": "Vor∕Nachbesprechungen",
+        "studiengangsId": 6,
+        "rang": 1
+    },
+    {
+        "id": 331,
+        "titel": "Vortrag",
+        "oberLehrformat": "Vortrag",
+        "studiengangsId": 6,
+        "rang": 4
+    },
+    {
+        "id": 332,
+        "titel": "Obsolet",
+        "oberLehrformat": "Obsolet",
+        "studiengangsId": 6,
+        "rang": 0
+    },
+    {
+        "id": 333,
+        "titel": "Belehrung",
+        "oberLehrformat": "Vortrag",
+        "studiengangsId": 6,
+        "rang": 0
+    },
+    {
+        "id": 334,
+        "titel": "Modulnachbesprechung",
+        "oberLehrformat": "Vor∕Nachbesprechungen",
+        "studiengangsId": 6,
+        "rang": 90
+    },
+    {
+        "id": 335,
+        "titel": "Belehrung",
+        "oberLehrformat": "Vortrag",
+        "studiengangsId": 6,
+        "rang": 1
+    },
+    {
+        "id": 336,
+        "titel": "Präparierkurs",
+        "oberLehrformat": "Praktikum",
+        "studiengangsId": 6,
+        "rang": 21
+    },
+    {
+        "id": 337,
+        "titel": "Fachseminar",
+        "oberLehrformat": "Seminar",
+        "studiengangsId": 6,
+        "rang": 20
+    },
+    {
+        "id": 338,
+        "titel": "Interdisziplinäres Seminar",
+        "oberLehrformat": "Seminar",
+        "studiengangsId": 6,
+        "rang": 20
+    },
+    {
+        "id": 339,
+        "titel": "Fachseminar",
+        "oberLehrformat": "Seminar",
+        "studiengangsId": 6,
+        "rang": 20
+    },
+    {
+        "id": 340,
+        "titel": "Problemorientiertes Lernen",
+        "oberLehrformat": "POL",
+        "studiengangsId": 6,
+        "rang": 2
+    },
+    {
+        "id": 341,
+        "titel": "eLearning Vorlesung, interdisziplinär",
+        "oberLehrformat": "Vorlesung",
+        "studiengangsId": 6,
+        "rang": 3
+    },
+    {
+        "id": 343,
+        "titel": "Praktikum Großgruppe",
+        "oberLehrformat": "Praktikum",
+        "studiengangsId": 6,
+        "rang": 89
+    },
+    {
+        "id": 344,
+        "titel": "Vortrag",
+        "oberLehrformat": "Vortrag",
+        "studiengangsId": 6,
+        "rang": 4
+    },
+    {
+        "id": 346,
+        "titel": "Blockpraktikum",
+        "oberLehrformat": "Blockpraktikum",
+        "studiengangsId": 6,
+        "rang": 0
+    },
+    {
+        "id": 347,
+        "titel": "Obsolet",
+        "oberLehrformat": "Obsolet",
+        "studiengangsId": 6,
+        "rang": 100
+    },
+    {
+        "id": 350,
+        "titel": "PTM",
+        "oberLehrformat": "PTM",
+        "studiengangsId": 6,
+        "rang": 0
+    },
+    {
+        "id": 368,
+        "titel": "Obsolet",
+        "oberLehrformat": "Obsolet",
+        "studiengangsId": 6,
+        "rang": 52
+    },
+    {
+        "id": 369,
+        "titel": "Fachübergreifendes Seminar",
+        "oberLehrformat": "Seminar",
+        "studiengangsId": 6,
+        "rang": 5
+    },
+    {
+        "id": 373,
+        "titel": "Obsolet",
+        "oberLehrformat": "Obsolet",
+        "studiengangsId": 6,
+        "rang": 51
+    },
+    {
+        "id": 374,
+        "titel": "Simulation, interdisziplinär",
+        "oberLehrformat": "Praktikum",
+        "studiengangsId": 6,
+        "rang": 7
+    },
+    {
+        "id": 375,
+        "titel": "Modulworkshop",
+        "oberLehrformat": "Vor∕Nachbesprechungen",
+        "studiengangsId": 6,
+        "rang": 90
+    },
+    {
+        "id": 376,
+        "titel": "Obsolet",
+        "oberLehrformat": "Obsolet",
+        "studiengangsId": 6,
+        "rang": 0
+    },
+    {
+        "id": 377,
+        "titel": "Integriertes Seminar",
+        "oberLehrformat": "Integr. Seminar",
+        "studiengangsId": 6,
+        "rang": 5
+    },
+    {
+        "id": 378,
+        "titel": "Integriertes fachübergreifendes Seminar",
+        "oberLehrformat": "Integr. Seminar",
+        "studiengangsId": 6,
+        "rang": 5
+    },
+    {
+        "id": 379,
+        "titel": "Integriertes interdisziplinäres Seminar",
+        "oberLehrformat": "Integr. Seminar",
+        "studiengangsId": 6,
+        "rang": 5
+    },
+    {
+        "id": 380,
+        "titel": "Seminar mit klinischem Bezug",
+        "oberLehrformat": "Seminar klin.Bez.",
+        "studiengangsId": 6,
+        "rang": 5
+    },
+    {
+        "id": 381,
+        "titel": "Simulation, interdisziplinär",
+        "oberLehrformat": "Praktikum",
+        "studiengangsId": 6,
+        "rang": 7
+    },
+    {
+        "id": 398,
+        "titel": "blended learning Vorlesung",
+        "oberLehrformat": "Vorlesung",
+        "studiengangsId": 6,
+        "rang": 10
+    },
+    {
+        "id": 399,
+        "titel": "blended learning Vorlesung",
+        "oberLehrformat": "Vorlesung",
+        "studiengangsId": 6,
+        "rang": 10
+    },
+    {
+        "id": 400,
+        "titel": "Vorlesung zum SPU∕PNU",
+        "oberLehrformat": "Vorlesung",
+        "studiengangsId": 6,
+        "rang": 3
+    },
+    {
+        "id": 404,
+        "titel": "Obsolet",
+        "oberLehrformat": "Obsolet",
+        "studiengangsId": 6,
+        "rang": 0
+    },
+    {
+        "id": 405,
+        "titel": "Blockpraktikum",
+        "oberLehrformat": "Blockpraktikum",
+        "studiengangsId": 6,
+        "rang": 0
+    },
+    {
+        "id": 407,
+        "titel": "Simulation, Fachsimulation",
+        "oberLehrformat": "Praktikum",
+        "studiengangsId": 6,
+        "rang": 7
+    },
+    {
+        "id": 411,
+        "titel": "Fachpraktikum Grossgruppe",
+        "oberLehrformat": "Praktikum",
+        "studiengangsId": 6,
+        "rang": 7
+    },
+    {
+        "id": 413,
+        "titel": "Praktikum Kleingruppe",
+        "oberLehrformat": "Praktikum",
+        "studiengangsId": 6,
+        "rang": 7
+    },
+    {
+        "id": 414,
+        "titel": "Untersuchungskurs",
+        "oberLehrformat": "UK",
+        "studiengangsId": 6,
+        "rang": 12
+    },
+    {
+        "id": 415,
+        "titel": "Untersuchungskurs",
+        "oberLehrformat": "UK",
+        "studiengangsId": 6,
+        "rang": 12
+    },
+    {
+        "id": 417,
+        "titel": "Kommunikation Interaktion Teamarbeit",
+        "oberLehrformat": "KIT",
+        "studiengangsId": 6,
+        "rang": 11
+    },
+    {
+        "id": 418,
+        "titel": "Problemorientiertes Lernen",
+        "oberLehrformat": "POL",
+        "studiengangsId": 6,
+        "rang": 2
+    },
+    {
+        "id": 419,
+        "titel": "Seminar, Fachseminar",
+        "oberLehrformat": "Seminar",
+        "studiengangsId": 6,
+        "rang": 5
+    },
+    {
+        "id": 420,
+        "titel": "Fachübergreifendes Seminar",
+        "oberLehrformat": "Seminar",
+        "studiengangsId": 6,
+        "rang": 5
+    },
+    {
+        "id": 421,
+        "titel": "Seminar, interdisziplinär",
+        "oberLehrformat": "Seminar",
+        "studiengangsId": 6,
+        "rang": 5
+    },
+    {
+        "id": 422,
+        "titel": "Seminar mit klinischem Bezug",
+        "oberLehrformat": "Seminar",
+        "studiengangsId": 6,
+        "rang": 5
+    },
+    {
+        "id": 423,
+        "titel": "Seminar, integriert",
+        "oberLehrformat": "Seminar",
+        "studiengangsId": 6,
+        "rang": 5
+    },
+    {
+        "id": 424,
+        "titel": "Integriertes fachübergreifendes Seminar",
+        "oberLehrformat": "Integr. Seminar",
+        "studiengangsId": 6,
+        "rang": 5
+    },
+    {
+        "id": 425,
+        "titel": "Seminar, integriert interdisziplinär",
+        "oberLehrformat": "Seminar",
+        "studiengangsId": 6,
+        "rang": 5
+    },
+    {
+        "id": 426,
+        "titel": "Praktikum Großgruppe",
+        "oberLehrformat": "Praktikum",
+        "studiengangsId": 6,
+        "rang": 7
+    },
+    {
+        "id": 427,
+        "titel": "Histologiekurs",
+        "oberLehrformat": "Praktikum",
+        "studiengangsId": 6,
+        "rang": 7
+    },
+    {
+        "id": 428,
+        "titel": "Präparierkurs",
+        "oberLehrformat": "Praktikum",
+        "studiengangsId": 6,
+        "rang": 7
+    },
+    {
+        "id": 472,
+        "titel": "UaK Patientenuntersuchung",
+        "oberLehrformat": "UaK",
+        "studiengangsId": 6,
+        "rang": 50
+    },
+    {
+        "id": 473,
+        "titel": "UaK Patientendemonstration",
+        "oberLehrformat": "UaK",
+        "studiengangsId": 6,
+        "rang": 50
+    },
+    {
+        "id": 474,
+        "titel": "UaK Patientendemonstration & -untersuchung",
+        "oberLehrformat": "UaK",
+        "studiengangsId": 6,
+        "rang": 50
+    },
+    {
+        "id": 507,
+        "titel": "Simulation, Fachsimulation",
+        "oberLehrformat": "Praktikum",
+        "studiengangsId": 6,
+        "rang": 7
+    },
+    {
+        "id": 511,
+        "titel": "Praktikum Großgruppe",
+        "oberLehrformat": "Praktikum",
+        "studiengangsId": 6,
+        "rang": 7
+    },
+    {
+        "id": 513,
+        "titel": "Praktikum Kleingruppe",
+        "oberLehrformat": "Praktikum",
+        "studiengangsId": 6,
+        "rang": 7
+    },
+    {
+        "id": 517,
+        "titel": "Kommunikation Interaktion Teamarbeit",
+        "oberLehrformat": "KIT",
+        "studiengangsId": 6,
+        "rang": 11
+    },
+    {
+        "id": 521,
+        "titel": "Seminar, Fachseminar",
+        "oberLehrformat": "Seminar",
+        "studiengangsId": 6,
+        "rang": 5
+    },
+    {
+        "id": 522,
+        "titel": "Fachseminar",
+        "oberLehrformat": "Seminar",
+        "studiengangsId": 6,
+        "rang": 5
+    },
+    {
+        "id": 523,
+        "titel": "Seminar, integriert interdisziplinär",
+        "oberLehrformat": "Seminar",
+        "studiengangsId": 6,
+        "rang": 5
+    },
+    {
+        "id": 524,
+        "titel": "Integriertes interdisziplinäres Seminar",
+        "oberLehrformat": "Seminar",
+        "studiengangsId": 6,
+        "rang": 5
+    },
+    {
+        "id": 525,
+        "titel": "Seminar mit klinischem Bezug",
+        "oberLehrformat": "Seminar",
+        "studiengangsId": 6,
+        "rang": 5
+    },
+    {
+        "id": 526,
+        "titel": "Seminar, interdisziplinär",
+        "oberLehrformat": "Seminar",
+        "studiengangsId": 6,
+        "rang": 5
+    },
+    {
+        "id": 557,
+        "titel": "Fachpraktikum Grossgruppe",
+        "oberLehrformat": "Praktikum",
+        "studiengangsId": 6,
+        "rang": 7
+    },
+    {
+        "id": 572,
+        "titel": "UaK Patientenuntersuchung",
+        "oberLehrformat": "UaK",
+        "studiengangsId": 6,
+        "rang": 50
+    },
+    {
+        "id": 573,
+        "titel": "UaK Patientendemonstration",
+        "oberLehrformat": "UaK",
+        "studiengangsId": 6,
+        "rang": 50
+    },
+    {
+        "id": 574,
+        "titel": "UaK Patientendemonstration & -untersuchung",
+        "oberLehrformat": "UaK",
+        "studiengangsId": 6,
+        "rang": 50
+    },
+    {
+        "id": 605,
+        "titel": "Seminar, interdisziplinär",
+        "oberLehrformat": "Seminar",
+        "studiengangsId": 6,
+        "rang": 5
+    },
+    {
+        "id": 606,
+        "titel": "Fachseminar",
+        "oberLehrformat": "Seminar",
+        "studiengangsId": 6,
+        "rang": 5
+    },
+    {
+        "id": 607,
+        "titel": "Simulation, Fachsimulation",
+        "oberLehrformat": "Praktikum",
+        "studiengangsId": 6,
+        "rang": 7
+    },
+    {
+        "id": 611,
+        "titel": "Fachpraktikum Grossgruppe",
+        "oberLehrformat": "Praktikum",
+        "studiengangsId": 6,
+        "rang": 7
+    },
+    {
+        "id": 612,
+        "titel": "Praktikum Großgruppe",
+        "oberLehrformat": "Praktikum",
+        "studiengangsId": 6,
+        "rang": 7
+    },
+    {
+        "id": 613,
+        "titel": "Praktikum Kleingruppe",
+        "oberLehrformat": "Praktikum",
+        "studiengangsId": 6,
+        "rang": 7
+    },
+    {
+        "id": 617,
+        "titel": "Kommunikation Interaktion Teamarbeit",
+        "oberLehrformat": "KIT",
+        "studiengangsId": 6,
+        "rang": 11
+    },
+    {
+        "id": 618,
+        "titel": "Kommunikation Interaktion Teamarbeit",
+        "oberLehrformat": "KIT",
+        "studiengangsId": 6,
+        "rang": 11
+    },
+    {
+        "id": 672,
+        "titel": "UaK Patientenuntersuchung",
+        "oberLehrformat": "UaK",
+        "studiengangsId": 6,
+        "rang": 50
+    },
+    {
+        "id": 673,
+        "titel": "UaK Patientendemonstration",
+        "oberLehrformat": "UaK",
+        "studiengangsId": 6,
+        "rang": 50
+    },
+    {
+        "id": 674,
+        "titel": "UaK Patientendemonstration & -untersuchung",
+        "oberLehrformat": "UaK",
+        "studiengangsId": 6,
+        "rang": 50
+    },
+    {
+        "id": 676,
+        "titel": "Präparierkurs",
+        "oberLehrformat": "Praktikum",
+        "studiengangsId": 6,
+        "rang": 7
+    },
+    {
+        "id": 677,
+        "titel": "Präparierkurs",
+        "oberLehrformat": "Praktikum",
+        "studiengangsId": 6,
+        "rang": 7
+    },
+    {
+        "id": 678,
+        "titel": "Präparierkurs",
+        "oberLehrformat": "Praktikum",
+        "studiengangsId": 6,
+        "rang": 7
+    },
+    {
+        "id": 679,
+        "titel": "Histologiekurs",
+        "oberLehrformat": "Praktikum",
+        "studiengangsId": 6,
+        "rang": 7
+    },
+    {
+        "id": 680,
+        "titel": "Histologiekurs",
+        "oberLehrformat": "Praktikum",
+        "studiengangsId": 6,
+        "rang": 7
+    },
+    {
+        "id": 681,
+        "titel": "Histologiekurs",
+        "oberLehrformat": "Praktikum",
+        "studiengangsId": 6,
+        "rang": 7
+    },
+    {
+        "id": 682,
+        "titel": "Modulunterstützende eVorlesung",
+        "oberLehrformat": "Vorlesung",
+        "studiengangsId": 6,
+        "rang": 3
+    },
+    {
+        "id": 685,
+        "titel": "Projektseminar",
+        "oberLehrformat": "Projektseminar (GEWI StO 2014)",
+        "studiengangsId": 5,
+        "rang": 0
+    },
+    {
+        "id": 686,
+        "titel": "Tutorium",
+        "oberLehrformat": "Tutorium (GEWI StO 2014)",
+        "studiengangsId": 5,
+        "rang": 0
+    },
+    {
+        "id": 687,
+        "titel": "SeminarU (Zukunft, ab 2017!)",
+        "oberLehrformat": "Seminaristischer Unterricht (StO 2014, Zukunft- Gruppengröße ab 2017)",
+        "studiengangsId": 5,
+        "rang": 0
+    },
+    {
+        "id": 688,
+        "titel": "Praktikum Großgruppe",
+        "oberLehrformat": "Praktikum",
+        "studiengangsId": 6,
+        "rang": 7
+    },
+    {
+        "id": 691,
+        "titel": "Fachpraktikum Kleingruppe",
+        "oberLehrformat": "Praktikum",
+        "studiengangsId": 6,
+        "rang": 7
+    },
+    {
+        "id": 692,
+        "titel": "Fachseminar",
+        "oberLehrformat": "Seminar",
+        "studiengangsId": 6,
+        "rang": 5
+    },
+    {
+        "id": 693,
+        "titel": "Fachübergreifendes Seminar",
+        "oberLehrformat": "Seminar",
+        "studiengangsId": 6,
+        "rang": 5
+    },
+    {
+        "id": 694,
+        "titel": "Interdisziplinäres Seminar",
+        "oberLehrformat": "Seminar",
+        "studiengangsId": 6,
+        "rang": 5
+    },
+    {
+        "id": 695,
+        "titel": "Fachübergreifendes Seminar",
+        "oberLehrformat": "Seminar",
+        "studiengangsId": 6,
+        "rang": 5
+    },
+    {
+        "id": 696,
+        "titel": "Vorlesung",
+        "oberLehrformat": "Vorlesung",
+        "studiengangsId": 9,
+        "rang": 0
+    },
+    {
+        "id": 697,
+        "titel": "Praktikum",
+        "oberLehrformat": "Praktikum",
+        "studiengangsId": 9,
+        "rang": 0
+    },
+    {
+        "id": 698,
+        "titel": "Vortrag",
+        "oberLehrformat": "Vortrag",
+        "studiengangsId": 9,
+        "rang": 0
+    },
+    {
+        "id": 699,
+        "titel": "Problemorientiertes Lernen",
+        "oberLehrformat": "Problemorientiertes Lernen",
+        "studiengangsId": 9,
+        "rang": 0
+    },
+    {
+        "id": 700,
+        "titel": "Freies Üben",
+        "oberLehrformat": "Freies Üben",
+        "studiengangsId": 9,
+        "rang": 0
+    },
+    {
+        "id": 701,
+        "titel": "Kurs (Röntgen)",
+        "oberLehrformat": "Kurs (Röntgen)",
+        "studiengangsId": 9,
+        "rang": 0
+    },
+    {
+        "id": 702,
+        "titel": "Phantomkurs a",
+        "oberLehrformat": "Phantomkurs",
+        "studiengangsId": 9,
+        "rang": 0
+    },
+    {
+        "id": 703,
+        "titel": "Phantomkurs b",
+        "oberLehrformat": "Phantomkurs",
+        "studiengangsId": 9,
+        "rang": 0
+    },
+    {
+        "id": 704,
+        "titel": "Behandlungskurs (Zahnerhaltung/Zahnersatz)12",
+        "oberLehrformat": "Behandlungskurs_Zahner",
+        "studiengangsId": 9,
+        "rang": 0
+    },
+    {
+        "id": 705,
+        "titel": "Behandlungskurs (Zahnerhaltung/Zahnersatz)6",
+        "oberLehrformat": "Behandlungskurs_Zahner",
+        "studiengangsId": 9,
+        "rang": 0
+    },
+    {
+        "id": 706,
+        "titel": "Behandlungskurs (Zahnerhaltung/Zahnersatz)20",
+        "oberLehrformat": "Behandlungskurs_Zahner",
+        "studiengangsId": 9,
+        "rang": 0
+    },
+    {
+        "id": 707,
+        "titel": "Behandlungskurs (KfO OP-Kurs)20",
+        "oberLehrformat": "Behandlungskurs_KFO_OP",
+        "studiengangsId": 9,
+        "rang": 0
+    },
+    {
+        "id": 708,
+        "titel": "Behandlungskurs (KfO OP-Kurs)1",
+        "oberLehrformat": "Behandlungskurs_KFO_OP",
+        "studiengangsId": 9,
+        "rang": 0
+    },
+    {
+        "id": 709,
+        "titel": "Behandlungskurs (KfO OP-Kurs)12",
+        "oberLehrformat": "Behandlungskurs_KFO_OP",
+        "studiengangsId": 9,
+        "rang": 0
+    },
+    {
+        "id": 710,
+        "titel": "Behandlungskurs (KfO OP-Kurs)20",
+        "oberLehrformat": "Behandlungskurs_KFO_OP",
+        "studiengangsId": 9,
+        "rang": 0
+    },
+    {
+        "id": 711,
+        "titel": "Praktikum Großgruppe",
+        "oberLehrformat": "Praktikum",
+        "studiengangsId": 6,
+        "rang": 10
+    },
+    {
+        "id": 712,
+        "titel": "Praktikum Großgruppe",
+        "oberLehrformat": "Praktikum",
+        "studiengangsId": 6,
+        "rang": 10
+    },
+    {
+        "id": 713,
+        "titel": "UaK Patientendemonstration",
+        "oberLehrformat": "UaK",
+        "studiengangsId": 6,
+        "rang": 10
+    },
+    {
+        "id": 714,
+        "titel": "UaK Patientenuntersuchung",
+        "oberLehrformat": "UaK",
+        "studiengangsId": 6,
+        "rang": 10
+    },
+    {
+        "id": 715,
+        "titel": "Seminar (Wahlpflicht)",
+        "oberLehrformat": "Seminar (Wahlpflicht)",
+        "studiengangsId": 5,
+        "rang": 0
+    },
+    {
+        "id": 716,
+        "titel": "Seminar_k6_1gr",
+        "oberLehrformat": "Seminar (1 Gr)",
+        "studiengangsId": 8,
+        "rang": 0
+    },
+    {
+        "id": 717,
+        "titel": "Vorlesung",
+        "oberLehrformat": "Vorlesung",
+        "studiengangsId": 11,
+        "rang": 1
+    },
+    {
+        "id": 718,
+        "titel": "Seminar",
+        "oberLehrformat": "Seminar",
+        "studiengangsId": 11,
+        "rang": 1
+    },
+    {
+        "id": 719,
+        "titel": "Seminar. Unterricht",
+        "oberLehrformat": "Seminar. Unterricht",
+        "studiengangsId": 11,
+        "rang": 1
+    },
+    {
+        "id": 722,
+        "titel": "Praxisseminar",
+        "oberLehrformat": "Praxisseminar",
+        "studiengangsId": 11,
+        "rang": 1
+    },
+    {
+        "id": 723,
+        "titel": "Kolloquium",
+        "oberLehrformat": "Kolloquium",
+        "studiengangsId": 11,
+        "rang": 1
+    },
+    {
+        "id": 724,
+        "titel": "Seminar",
+        "oberLehrformat": "Seminar (PFLEGE)",
+        "studiengangsId": 12,
+        "rang": 0
+    },
+    {
+        "id": 725,
+        "titel": "Praxisseminar",
+        "oberLehrformat": "Praxisseminar (PFLEGE)",
+        "studiengangsId": 12,
+        "rang": 0
+    },
+    {
+        "id": 726,
+        "titel": "Notfall",
+        "oberLehrformat": "Notfall (PFLEGE)",
+        "studiengangsId": 12,
+        "rang": 0
+    },
+    {
+        "id": 727,
+        "titel": "Vorlesung",
+        "oberLehrformat": "Vorlesung (PFLEGE)",
+        "studiengangsId": 12,
+        "rang": 0
+    },
+    {
+        "id": 728,
+        "titel": "SeminarU",
+        "oberLehrformat": "seminaristischer Unterricht (PFLEGE)",
+        "studiengangsId": 12,
+        "rang": 0
+    },
+    {
+        "id": 729,
+        "titel": "POL-KIT",
+        "oberLehrformat": "POL-KIT (PFLEGE)",
+        "studiengangsId": 12,
+        "rang": 0
+    },
+    {
+        "id": 730,
+        "titel": "POL-KIT",
+        "oberLehrformat": "POL-KIT (HEBAMMEN)",
+        "studiengangsId": 13,
+        "rang": 0
+    },
+    {
+        "id": 731,
+        "titel": "SeminarU",
+        "oberLehrformat": "seminaristischer Unterricht (HEBAMMEN)",
+        "studiengangsId": 13,
+        "rang": 0
+    },
+    {
+        "id": 732,
+        "titel": "Vorlesung",
+        "oberLehrformat": "Vorlesung (HEBAMMEN)",
+        "studiengangsId": 13,
+        "rang": 0
+    },
+    {
+        "id": 733,
+        "titel": "Notfall",
+        "oberLehrformat": "Notfall (HEBAMMEN)",
+        "studiengangsId": 13,
+        "rang": 0
+    },
+    {
+        "id": 734,
+        "titel": "Praxisseminar",
+        "oberLehrformat": "Praxisseminar(HEBAMMEN)",
+        "studiengangsId": 13,
+        "rang": 0
+    },
+    {
+        "id": 735,
+        "titel": "Seminar",
+        "oberLehrformat": "Seminar (HEBAMMEN)",
+        "studiengangsId": 13,
+        "rang": 0
+    },
+    {
+        "id": 760,
+        "titel": "Praxisseminar",
+        "oberLehrformat": "Praxisseminar",
+        "studiengangsId": 11,
+        "rang": 1
+    },
+    {
+        "id": 761,
+        "titel": "Skills Training",
+        "oberLehrformat": "Skills Training",
+        "studiengangsId": 11,
+        "rang": 1
+    },
+    {
+        "id": 763,
+        "titel": "Vortrag",
+        "oberLehrformat": "Vortrag",
+        "studiengangsId": 11,
+        "rang": 1
+    },
+    {
+        "id": 807,
+        "titel": "Simulation, Fachsimulation",
+        "oberLehrformat": "Praktikum",
+        "studiengangsId": 6,
+        "rang": 7
+    },
+    {
+        "id": 808,
+        "titel": "Praktikum Großgruppe",
+        "oberLehrformat": "Praktikum",
+        "studiengangsId": 6,
+        "rang": 7
+    },
+    {
+        "id": 809,
+        "titel": "Praktikum Großgruppe",
+        "oberLehrformat": "Praktikum",
+        "studiengangsId": 6,
+        "rang": 7
+    },
+    {
+        "id": 813,
+        "titel": "Praktikum Kleingruppe",
+        "oberLehrformat": "Praktikum",
+        "studiengangsId": 6,
+        "rang": 7
+    },
+    {
+        "id": 814,
+        "titel": "Untersuchungskurs",
+        "oberLehrformat": "UK",
+        "studiengangsId": 6,
+        "rang": 12
+    },
+    {
+        "id": 815,
+        "titel": "Untersuchungskurs",
+        "oberLehrformat": "UK",
+        "studiengangsId": 6,
+        "rang": 12
+    },
+    {
+        "id": 817,
+        "titel": "Kommunikation Interaktion Teamarbeit",
+        "oberLehrformat": "KIT",
+        "studiengangsId": 6,
+        "rang": 11
+    },
+    {
+        "id": 818,
+        "titel": "Problemorientiertes Lernen",
+        "oberLehrformat": "POL",
+        "studiengangsId": 6,
+        "rang": 2
+    },
+    {
+        "id": 819,
+        "titel": "Seminar, Fachseminar",
+        "oberLehrformat": "Seminar",
+        "studiengangsId": 6,
+        "rang": 5
+    },
+    {
+        "id": 821,
+        "titel": "Seminar, interdisziplinär",
+        "oberLehrformat": "Seminar",
+        "studiengangsId": 6,
+        "rang": 5
+    },
+    {
+        "id": 822,
+        "titel": "Seminar mit klinischem Bezug",
+        "oberLehrformat": "Seminar",
+        "studiengangsId": 6,
+        "rang": 5
+    },
+    {
+        "id": 823,
+        "titel": "Seminar, integriert",
+        "oberLehrformat": "Seminar",
+        "studiengangsId": 6,
+        "rang": 5
+    },
+    {
+        "id": 824,
+        "titel": "Seminar, blended learning",
+        "oberLehrformat": "Seminar",
+        "studiengangsId": 6,
+        "rang": 5
+    },
+    {
+        "id": 825,
+        "titel": "Seminar, integriert interdisziplinär",
+        "oberLehrformat": "Seminar",
+        "studiengangsId": 6,
+        "rang": 5
+    },
+    {
+        "id": 826,
+        "titel": "Praktikum Großgruppe",
+        "oberLehrformat": "Praktikum",
+        "studiengangsId": 6,
+        "rang": 7
+    },
+    {
+        "id": 827,
+        "titel": "Histologiekurs",
+        "oberLehrformat": "Praktikum",
+        "studiengangsId": 6,
+        "rang": 7
+    },
+    {
+        "id": 829,
+        "titel": "Untersuchungskurs",
+        "oberLehrformat": "UK",
+        "studiengangsId": 6,
+        "rang": 12
+    },
+    {
+        "id": 830,
+        "titel": "Untersuchungskurs",
+        "oberLehrformat": "UK",
+        "studiengangsId": 6,
+        "rang": 12
+    },
+    {
+        "id": 831,
+        "titel": "Kommunikation Interaktion Teamarbeit",
+        "oberLehrformat": "KIT",
+        "studiengangsId": 6,
+        "rang": 11
+    },
+    {
+        "id": 832,
+        "titel": "Problemorientiertes Lernen",
+        "oberLehrformat": "POL",
+        "studiengangsId": 6,
+        "rang": 2
+    },
+    {
+        "id": 833,
+        "titel": "Seminar, Fachseminar",
+        "oberLehrformat": "Seminar",
+        "studiengangsId": 6,
+        "rang": 5
+    },
+    {
+        "id": 834,
+        "titel": "Seminar, interdisziplinär",
+        "oberLehrformat": "Seminar",
+        "studiengangsId": 6,
+        "rang": 5
+    },
+    {
+        "id": 835,
+        "titel": "Seminar mit klinischem Bezug",
+        "oberLehrformat": "Seminar",
+        "studiengangsId": 6,
+        "rang": 5
+    },
+    {
+        "id": 836,
+        "titel": "Seminar, integriert",
+        "oberLehrformat": "Seminar",
+        "studiengangsId": 6,
+        "rang": 5
+    },
+    {
+        "id": 837,
+        "titel": "Seminar, integriert interdisziplinär",
+        "oberLehrformat": "Seminar",
+        "studiengangsId": 6,
+        "rang": 5
+    },
+    {
+        "id": 838,
+        "titel": "Praktikum Großgruppe",
+        "oberLehrformat": "Praktikum",
+        "studiengangsId": 6,
+        "rang": 7
+    },
+    {
+        "id": 839,
+        "titel": "Histologiekurs",
+        "oberLehrformat": "Praktikum",
+        "studiengangsId": 6,
+        "rang": 7
+    },
+    {
+        "id": 840,
+        "titel": "Praxisbegleitung",
+        "oberLehrformat": "Praxisbegleitung",
+        "studiengangsId": 11,
+        "rang": 1
+    },
+    {
+        "id": 841,
+        "titel": "Praktikum",
+        "oberLehrformat": "Praktikum",
+        "studiengangsId": 14,
+        "rang": 0
+    },
+    {
+        "id": 842,
+        "titel": "Vorlesung",
+        "oberLehrformat": "Vorlesung",
+        "studiengangsId": 14,
+        "rang": 0
+    },
+    {
+        "id": 843,
+        "titel": "Vortrag",
+        "oberLehrformat": "Vortrag",
+        "studiengangsId": 14,
+        "rang": 0
+    },
+    {
+        "id": 844,
+        "titel": "KIT",
+        "oberLehrformat": "KIT",
+        "studiengangsId": 14,
+        "rang": 0
+    },
+    {
+        "id": 846,
+        "titel": "Praktikum Kleingruppe",
+        "oberLehrformat": "Praktikum",
+        "studiengangsId": 6,
+        "rang": 7
+    },
+    {
+        "id": 847,
+        "titel": "Praktikum Großgruppe",
+        "oberLehrformat": "Praktikum",
+        "studiengangsId": 6,
+        "rang": 7
+    },
+    {
+        "id": 848,
+        "titel": "Fachseminar",
+        "oberLehrformat": "Seminar",
+        "studiengangsId": 6,
+        "rang": 5
+    },
+    {
+        "id": 849,
+        "titel": "Seminar, interdisziplinär",
+        "oberLehrformat": "Seminar",
+        "studiengangsId": 6,
+        "rang": 5
+    },
+    {
+        "id": 850,
+        "titel": "UaK Patientendemonstration & -untersuchung",
+        "oberLehrformat": "UaK",
+        "studiengangsId": 6,
+        "rang": 50
+    },
+    {
+        "id": 851,
+        "titel": "UaK Patientendemonstration & -untersuchung",
+        "oberLehrformat": "UaK",
+        "studiengangsId": 6,
+        "rang": 50
+    },
+    {
+        "id": 852,
+        "titel": "UaK Patientendemonstration",
+        "oberLehrformat": "UaK",
+        "studiengangsId": 6,
+        "rang": 50
+    },
+    {
+        "id": 853,
+        "titel": "UaK Patientendemonstration",
+        "oberLehrformat": "UaK",
+        "studiengangsId": 6,
+        "rang": 50
+    },
+    {
+        "id": 854,
+        "titel": "UaK Patientenuntersuchung",
+        "oberLehrformat": "UaK",
+        "studiengangsId": 6,
+        "rang": 50
+    },
+    {
+        "id": 855,
+        "titel": "UaK Patientenuntersuchung",
+        "oberLehrformat": "UaK",
+        "studiengangsId": 6,
+        "rang": 50
+    },
+    {
+        "id": 856,
+        "titel": "Seminar, interdisziplinär",
+        "oberLehrformat": "Seminar",
+        "studiengangsId": 6,
+        "rang": 5
+    },
+    {
+        "id": 857,
+        "titel": "Seminar mit klinischem Bezug",
+        "oberLehrformat": "Seminar",
+        "studiengangsId": 6,
+        "rang": 5
+    },
+    {
+        "id": 858,
+        "titel": "Seminar, integriert interdisziplinär",
+        "oberLehrformat": "Seminar",
+        "studiengangsId": 6,
+        "rang": 5
+    },
+    {
+        "id": 859,
+        "titel": "Seminar, Fachseminar",
+        "oberLehrformat": "Seminar",
+        "studiengangsId": 6,
+        "rang": 5
+    },
+    {
+        "id": 860,
+        "titel": "Kommunikation Interaktion Teamarbeit",
+        "oberLehrformat": "KIT",
+        "studiengangsId": 6,
+        "rang": 11
+    },
+    {
+        "id": 861,
+        "titel": "Kommunikation Interaktion Teamarbeit",
+        "oberLehrformat": "KIT",
+        "studiengangsId": 6,
+        "rang": 11
+    },
+    {
+        "id": 862,
+        "titel": "Kommunikation Interaktion Teamarbeit",
+        "oberLehrformat": "KIT",
+        "studiengangsId": 6,
+        "rang": 11
+    },
+    {
+        "id": 863,
+        "titel": "Praktikum Kleingruppe",
+        "oberLehrformat": "Praktikum",
+        "studiengangsId": 6,
+        "rang": 7
+    },
+    {
+        "id": 864,
+        "titel": "Praktikum Großgruppe",
+        "oberLehrformat": "Praktikum",
+        "studiengangsId": 6,
+        "rang": 7
+    },
+    {
+        "id": 865,
+        "titel": "Simulation, Fachsimulation",
+        "oberLehrformat": "Praktikum",
+        "studiengangsId": 6,
+        "rang": 7
+    },
+    {
+        "id": 866,
+        "titel": "UaK Patientendemonstration & -untersuchung",
+        "oberLehrformat": "UaK",
+        "studiengangsId": 6,
+        "rang": 50
+    },
+    {
+        "id": 867,
+        "titel": "UaK Patientendemonstration",
+        "oberLehrformat": "UaK",
+        "studiengangsId": 6,
+        "rang": 50
+    },
+    {
+        "id": 868,
+        "titel": "UaK Patientenuntersuchung",
+        "oberLehrformat": "UaK",
+        "studiengangsId": 6,
+        "rang": 50
+    },
+    {
+        "id": 869,
+        "titel": "Vorlesung",
+        "oberLehrformat": "Vorlesung",
+        "studiengangsId": 15,
+        "rang": 0
+    },
+    {
+        "id": 870,
+        "titel": "Praktikum",
+        "oberLehrformat": "Praktikum",
+        "studiengangsId": 15,
+        "rang": 0
+    },
+    {
+        "id": 871,
+        "titel": "Praktikum",
+        "oberLehrformat": "Praktikum",
+        "studiengangsId": 15,
+        "rang": 0
+    },
+    {
+        "id": 872,
+        "titel": "Übungen",
+        "oberLehrformat": "Übungen",
+        "studiengangsId": 15,
+        "rang": 0
+    },
+    {
+        "id": 873,
+        "titel": "Übungen",
+        "oberLehrformat": "Übungen",
+        "studiengangsId": 15,
+        "rang": 0
+    },
+    {
+        "id": 874,
+        "titel": "Hospitation",
+        "oberLehrformat": "Hospitation",
+        "studiengangsId": 15,
+        "rang": 0
+    },
+    {
+        "id": 875,
+        "titel": "Exkursion",
+        "oberLehrformat": "Exkursion",
+        "studiengangsId": 15,
+        "rang": 0
+    },
+    {
+        "id": 876,
+        "titel": "Vorlesung",
+        "oberLehrformat": "Vorlesung",
+        "studiengangsId": 16,
+        "rang": 0
+    },
+    {
+        "id": 877,
+        "titel": "Vorlesung",
+        "oberLehrformat": "Vorlesung",
+        "studiengangsId": 16,
+        "rang": 0
+    },
+    {
+        "id": 878,
+        "titel": "Seminar",
+        "oberLehrformat": "Seminar",
+        "studiengangsId": 16,
+        "rang": 0
+    },
+    {
+        "id": 879,
+        "titel": "Seminar",
+        "oberLehrformat": "Seminar",
+        "studiengangsId": 16,
+        "rang": 0
+    },
+    {
+        "id": 880,
+        "titel": "Praxisseminar",
+        "oberLehrformat": "Praxisseminar",
+        "studiengangsId": 16,
+        "rang": 0
+    },
+    {
+        "id": 881,
+        "titel": "Skills Training",
+        "oberLehrformat": "Skills Training",
+        "studiengangsId": 16,
+        "rang": 0
+    },
+    {
+        "id": 882,
+        "titel": "Skills Training",
+        "oberLehrformat": "Skills Training",
+        "studiengangsId": 16,
+        "rang": 0
+    },
+    {
+        "id": 883,
+        "titel": "Skills Training",
+        "oberLehrformat": "Skills Training",
+        "studiengangsId": 16,
+        "rang": 0
+    },
+    {
+        "id": 884,
+        "titel": "POL",
+        "oberLehrformat": "POL",
+        "studiengangsId": 16,
+        "rang": 0
+    },
+    {
+        "id": 885,
+        "titel": "Praxisbegleitung",
+        "oberLehrformat": "Praxisbegleitung",
+        "studiengangsId": 16,
+        "rang": 0
+    },
+    {
+        "id": 887,
+        "titel": "Vorlesung",
+        "oberLehrformat": "Vorlesung",
+        "studiengangsId": 13,
+        "rang": 0
+    },
+    {
+        "id": 888,
+        "titel": "Vorlesung",
+        "oberLehrformat": "Vorlesung",
+        "studiengangsId": 13,
+        "rang": 0
+    },
+    {
+        "id": 889,
+        "titel": "Seminar",
+        "oberLehrformat": "Seminar",
+        "studiengangsId": 13,
+        "rang": 0
+    },
+    {
+        "id": 890,
+        "titel": "Seminar",
+        "oberLehrformat": "Seminar",
+        "studiengangsId": 13,
+        "rang": 0
+    },
+    {
+        "id": 891,
+        "titel": "Praxisseminar",
+        "oberLehrformat": "Praxisseminar",
+        "studiengangsId": 13,
+        "rang": 0
+    },
+    {
+        "id": 892,
+        "titel": "Skills Training",
+        "oberLehrformat": "Skills Training",
+        "studiengangsId": 13,
+        "rang": 0
+    },
+    {
+        "id": 893,
+        "titel": "Skills Training",
+        "oberLehrformat": "Skills Training",
+        "studiengangsId": 13,
+        "rang": 0
+    },
+    {
+        "id": 894,
+        "titel": "Skills Training",
+        "oberLehrformat": "Skills Training",
+        "studiengangsId": 13,
+        "rang": 0
+    },
+    {
+        "id": 895,
+        "titel": "POL",
+        "oberLehrformat": "POL",
+        "studiengangsId": 13,
+        "rang": 0
+    },
+    {
+        "id": 896,
+        "titel": "Praxisbegleitung",
+        "oberLehrformat": "Praxisbegleitung",
+        "studiengangsId": 13,
+        "rang": 0
+    },
+    {
+        "id": 898,
+        "titel": "Vortrag",
+        "oberLehrformat": "Vorlesung (HEBAMMEN)",
+        "studiengangsId": 13,
+        "rang": 0
+    },
+    {
+        "id": 901,
+        "titel": "Vorlesung",
+        "oberLehrformat": "Vorlesung",
+        "studiengangsId": 11,
+        "rang": 1
+    },
+    {
+        "id": 902,
+        "titel": "Praktikum Großgruppe",
+        "oberLehrformat": "Praktikum",
+        "studiengangsId": 6,
+        "rang": 7
+    },
+    {
+        "id": 903,
+        "titel": "Vortrag",
+        "oberLehrformat": "Vortrag",
+        "studiengangsId": 6,
+        "rang": 7
+    },
+    {
+        "id": 905,
+        "titel": "Votrag",
+        "oberLehrformat": "Vortrag",
+        "studiengangsId": 15,
+        "rang": 0
+    },
+    {
+        "id": 906,
+        "titel": "Votrag",
+        "oberLehrformat": "Vortrag",
+        "studiengangsId": 15,
+        "rang": 0
+    },
+    {
+        "id": 907,
+        "titel": "Praktikum",
+        "oberLehrformat": "Praktikum",
+        "studiengangsId": 15,
+        "rang": 0
+    },
+    {
+        "id": 908,
+        "titel": "Praktikum",
+        "oberLehrformat": "Praktikum",
+        "studiengangsId": 15,
+        "rang": 0
+    }
+]

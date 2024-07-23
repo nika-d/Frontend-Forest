@@ -1,0 +1,12 @@
+{
+    "compilerOptions": {
+        "baseUrl": "..",
+        "paths": {
+            "$src": ["../src"],
+            "$src/*": ["../src/*"],
+            "$test": ["../test"],
+            "$test/*": ["../test/*"]
+        },
+        "types": ["vitest/globals", "node"]
+    }
+}

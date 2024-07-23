@@ -1,0 +1,26 @@
+[
+    {
+        "id": 76959,
+        "modulId": 15100,
+        "submodulId": 1510003,
+        "unterLehrformatId": 818,
+        "nummer": 1313,
+        "langTitel": "POL M03-3"
+    },
+    {
+        "id": 76967,
+        "modulId": 15100,
+        "submodulId": 1510003,
+        "unterLehrformatId": 825,
+        "nummer": 222,
+        "langTitel": "Zytoskelett der quergestreiften Skelettmuskulatur und hieraus abgeleitete Myopathien"
+    },
+    {
+        "id": 76972,
+        "modulId": 15100,
+        "submodulId": 1510004,
+        "unterLehrformatId": 818,
+        "nummer": 502,
+        "langTitel": "POL M03-4"
+    }
+]

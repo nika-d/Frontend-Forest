@@ -1,0 +1,9 @@
+$lehrender-color: $primary;
+$vertretung-color: $secondary;
+$deleted-color: $grey;
+
+:export {
+    lehrenderColor: $lehrender-color;
+    vertretungColor: $vertretung-color;
+    deletedColor: $deleted-color;
+}

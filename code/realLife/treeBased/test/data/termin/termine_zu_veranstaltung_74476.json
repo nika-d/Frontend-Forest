@@ -1,0 +1,192 @@
+[
+    {
+        "id": "20211-1405-52a-52b-1",
+        "veranstaltungsId": "74476",
+        "raumId": "1001",
+        "start": "2021-05-03T14:00:00+02:00",
+        "ende": "2021-05-03T16:00:00+02:00",
+        "campus": "CVK",
+        "gruppenbezeichnung": "52a-52b",
+        "lehrTaetigkeiten": [
+            {
+                "id": "45029",
+                "personId": "3RICDyet5hAwiobV92pylr2f8Sc=",
+                "einrichtungsId": "50",
+                "ungeplanteEinrichtung": false
+            }
+        ],
+        "vertretungen": [],
+        "ohneLehrendeMitMeinerGeplantenEinrichtung": false
+    },
+    {
+        "id": "20201-74476-1a-28b-1",
+        "veranstaltungsId": "74476",
+        "raumId": "1000",
+        "start": "2020-04-14T10:00:00+02:00",
+        "ende": "2020-04-14T11:30:00+02:00",
+        "campus": "CCM",
+        "gruppenbezeichnung": "1a-28b",
+        "lehrTaetigkeiten": [
+            {
+                "id": "1",
+                "personId": "00J2lj6tJ8APwu6cztcUq5hiPcg=",
+                "einrichtungsId": "5",
+                "ungeplanteEinrichtung": false
+            },
+            {
+                "id": "2",
+                "personId": "6",
+                "einrichtungsId": "7",
+                "ungeplanteEinrichtung": false
+            }
+        ],
+        "vertretungen": [],
+        "ohneLehrendeMitMeinerGeplantenEinrichtung": false
+    },
+    {
+        "id": "20201-74476-1a-3b-1",
+        "veranstaltungsId": "74476",
+        "raumId": null,
+        "start": "2020-05-19T08:00:00+02:00",
+        "ende": "2020-05-19T09:30:00+02:00",
+        "campus": "CBF",
+        "gruppenbezeichnung": "1a-3b",
+        "lehrTaetigkeiten": [
+            {
+                "id": "83206",
+                "personId": "1L4QAL2s/nYpZGdPDjCIKbFcYn0=",
+                "einrichtungsId": "39",
+                "ungeplanteEinrichtung": false
+            }
+        ],
+        "vertretungen": [],
+        "ohneLehrendeMitMeinerGeplantenEinrichtung": false
+    },
+    {
+        "id": "20201-74476-34a-36b-1",
+        "veranstaltungsId": "74476",
+        "raumId": null,
+        "start": "2020-04-21T08:15:00+02:00",
+        "ende": "2020-04-21T09:45:00+02:00",
+        "campus": "CBF",
+        "gruppenbezeichnung": "34a-36b",
+        "lehrTaetigkeiten": [
+            {
+                "id": "83257",
+                "personId": "uZP+h5qES3kmCjvNcw4gHWNi+aU=",
+                "einrichtungsId": "39",
+                "ungeplanteEinrichtung": false
+            }
+        ],
+        "vertretungen": [],
+        "ohneLehrendeMitMeinerGeplantenEinrichtung": false
+    },
+    {
+        "id": "20201-74476-10a-12b-1",
+        "veranstaltungsId": "74476",
+        "raumId": null,
+        "start": "2020-05-19T08:00:00+02:00",
+        "ende": "2020-05-19T09:30:00+02:00",
+        "campus": "CCM",
+        "gruppenbezeichnung": "10a-12b",
+        "lehrTaetigkeiten": [
+            {
+                "id": "83346",
+                "personId": "uWYkjQYfFJ0ZNDLFvlyYtr7eIKA=",
+                "einrichtungsId": "39",
+                "ungeplanteEinrichtung": false
+            },
+            {
+                "id": "621112",
+                "personId": "uUIV6Y9Lkl4l2XeO8AZahQoYQtg=",
+                "einrichtungsId": "39",
+                "ungeplanteEinrichtung": false
+            }
+        ],
+        "vertretungen": [],
+        "ohneLehrendeMitMeinerGeplantenEinrichtung": false
+    },
+    {
+        "id": "20201-74476-1a-28b-1",
+        "veranstaltungsId": "74476",
+        "raumId": 2008,
+        "start": "2020-04-14T10:00:00+02:00",
+        "ende": "2020-04-14T11:30:00+02:00",
+        "campus": "CCM",
+        "gruppenbezeichnung": "1a-28b",
+        "lehrTaetigkeiten": [
+            {
+                "id": "90909",
+                "personId": "BCRcOxcIuq31WCku45+xWwB8VT8=",
+                "einrichtungsId": "63",
+                "ungeplanteEinrichtung": false
+            },
+            {
+                "id": "630365",
+                "personId": "22cxrItF+ossyIQF5O1vcRXZD00=",
+                "einrichtungsId": "16",
+                "ungeplanteEinrichtung": false
+            }
+        ],
+        "vertretungen": [],
+        "ohneLehrendeMitMeinerGeplantenEinrichtung": false
+    },
+    {
+        "id": "20201-74476-29a-56b-1",
+        "veranstaltungsId": "74476",
+        "raumId": 2008,
+        "start": "2020-06-02T08:30:00+02:00",
+        "ende": "2020-06-02T10:00:00+02:00",
+        "campus": "CCM",
+        "gruppenbezeichnung": "29a-56b",
+        "lehrTaetigkeiten": [
+            {
+                "id": "91013",
+                "personId": "BCRcOxcIuq31WCku45+xWwB8VT8=",
+                "einrichtungsId": "63",
+                "ungeplanteEinrichtung": false
+            },
+            {
+                "id": "630366",
+                "personId": "zwcMJo2QaAhdIQKhYDhweTnM2vY=",
+                "einrichtungsId": "16",
+                "ungeplanteEinrichtung": false
+            }
+        ],
+        "vertretungen": [],
+        "ohneLehrendeMitMeinerGeplantenEinrichtung": false
+    },
+    {
+        "id": "20211-74476-1a-4b-1",
+        "veranstaltungsId": "74476",
+        "start": "2020-04-14T10:00:00+02:00",
+        "ende": "2020-04-14T11:30:00+02:00",
+        "raumId": "3014",
+        "treffpunkt": "2. Etage, bei der Kaffeemaschine neben den Fahrstühlen. Wer noch einen Kaffee will, bitte etwas früher kommen. Kittel mitbringen!",
+        "campus": "CCM",
+        "gruppenbezeichnung": "1a-4b",
+        "lehrTaetigkeiten": [
+            {
+                "id": "1",
+                "personId": "/K4Ysl4S4U9x4N7g+D/Vuw293iw=",
+                "einrichtungsId": "5",
+                "ungeplanteEinrichtung": false
+            },
+            {
+                "id": "2",
+                "personId": "00kffxuZSKpBXX0CwMbDTL4eUwQ=",
+                "einrichtungsId": "120",
+                "ungeplanteEinrichtung": false
+            },
+            {
+                "id": "3",
+                "personId": "00J2lj6tJ8APwu6cztcUq5hiPcg=",
+                "einrichtungsId": null,
+                "ungeplanteEinrichtung": true
+            }
+        ],
+        "lehrendesFehlt": false,
+        "vertretungen": [],
+        "ohneLehrendeMitMeinerGeplantenEinrichtung": false
+    }
+]

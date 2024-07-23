@@ -1,0 +1,33 @@
+{
+    "AENDERUNG_SPEICHERN": "Änderung speichern",
+    "SPEICHERN_UND_NAECHSTEN": "Speichern und nächsten",
+    "DATENSATZ_BEARBEITEN": "Datensatz bearbeiten",
+    "KEIN_ERGEBNIS": "Wir haben leider kein Ergebnis für deine Suche gefunden.",
+    "LOADING_GENERIC": "Daten werden geladen",
+    "ERROR_HEADING_GENERAL": "Fehler",
+    "ERROR_HEADING": "Technischer Fehler",
+    "ERROR_HEADING_NETWORK": "Netzwerkfehler",
+    "ERROR_HEADING_NOT_LOGGED_IN": "Nicht eingeloggt",
+    "ERROR_DATA_LOADING": "Die gewünschten Daten konnten nicht geladen werden. Bitte versuche es später erneut",
+    "ERROR_NOT_LOGGED_IN": "Sie sind aktuell nicht in der LLP eingeloggt. Bitte loggen Sie sich unter folgendem Link ein und versuchen Sie es erneut:",
+    "ERROR_NOTIFICATION_DEFAULT_TEXT": "Bei der aktuellen Aktion ist ein Fehler aufgetreten. Bitte versuchen Sie es später erneut.",
+    "ERROR_CODE_PREFIX": "Fehler-Nr.: ",
+    "RELOAD": "Erneut versuchen",
+    "LOADING": "Lade ...",
+    "NO_DATA": "Keine Daten verfügbar",
+    "KOPIEREN": "Kopieren",
+
+    "FILTER": {
+        "KEINE_OPTIONEN": "Keine Optionen",
+        "AUSWAHL_UMKEHREN": "Auswahl umkehren",
+        "ZURUECKSETZEN": "Filter zurücksetzen",
+        "OK": "OK",
+        "RESET": "Reset",
+        "DATUM": "Datum",
+        "DATERANGE": {
+            "TITLE": "Datumsbereich",
+            "SUBTITLE": "Bitte auswählen",
+            "HINT": "Hinweis: Es werden nur Tage angezeigt, an denen tatsächlich Termine stattfinden und nicht durch einen Filter ausgeblendet wurden. "
+        }
+    }
+}

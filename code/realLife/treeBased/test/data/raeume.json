@@ -1,0 +1,85 @@
+[
+    {
+        "id": 1001,
+        "titel": "Audimax (Hörsaal 1 + 2)",
+        "adresse": "Lehrgebäude, Forum 3",
+        "zugang": "wird von Hörsaalbetreuung geöffnet",
+        "kontakt": "Veranstaltungsservice (450 573123)",
+        "link": "http://www.charite.de/service/lageplan/plan/map/cvk_forum_3/"
+    },
+    {
+        "id": 2002,
+        "titel": "Kopsch–Hörsaal (Wilhelm Waldeyer-Haus, Anatomie)",
+        "adresse": "Philippstr. 11, 10115 Berlin",
+        "zugang": "wird von Hörsaalbetreuung geöffnet",
+        "kontakt": "Veranstaltungsservice (450 673088)",
+        "link": "http://www.charite.de/service/lageplan/plan/map/ccm_wilhelm_waldeyer_haus/"
+    },
+    {
+        "id": 2101,
+        "titel": "Praktikum 01 340",
+        "adresse": "Virchowweg 6, CharitéCrossOver",
+        "zugang": "Abholung Hauptwache Chariteplatz",
+        "kontakt": "Sicherheits- und Empfangsdienst (450 573073)",
+        "link": "http://www.charite.de/service/lageplan/plan/map/ccm_virchowweg_6/"
+    },
+    {
+        "id": 3014,
+        "titel": "Untersuchungsraum T609+T609a Turnhalle (ggü. vom Brunnen)",
+        "adresse": "Hauptgebäude Ost, 2. Kellergeschoss",
+        "campus": "CBF",
+        "zugang": "Schlüsselabholung: Pforte Nordrampe",
+        "kontakt": "Sicherheits- und Empfangsdienst (8445 2911)",
+        "link": "https://www.charite.de/service/lageplan/plan/map/cbf_haus_v_eingang_nord_aufzug_21_22/"
+    },
+    {
+        "id": 2147,
+        "titel": "Simulationsfläche 03 002",
+        "addresse": "Virchowweg 5",
+        "adresse": "Virchowweg 5",
+        "campus": "CCM",
+        "zugang": "wird vom Lernzentrum geöffnet",
+        "kontakt": "Lernzentrum Studiensekretariat (450 676132)",
+        "link": "http://www.charite.de/service/lageplan/plan/map/ccm_virchowweg_5/"
+    },
+    {
+        "id": 2138,
+        "titel": "Simulationsfläche 01 009",
+        "addresse": "Virchowweg 5",
+        "adresse": "Virchowweg 5",
+        "campus": "CCM",
+        "zugang": "wird vom Lernzentrum geöffnet",
+        "kontakt": "Lernzentrum Studiensekretariat (450 676132)",
+        "link": "http://www.charite.de/service/lageplan/plan/map/ccm_virchowweg_5/"
+    },
+    {
+        "id": 2137,
+        "titel": "Simulationsfläche 01 008b",
+        "addresse": "Virchowweg 5",
+        "adresse": "Virchowweg 5",
+        "campus": "CCM",
+        "zugang": "wird vom Lernzentrum geöffnet",
+        "kontakt": "Lernzentrum Studiensekretariat (450 676132)",
+        "link": "http://www.charite.de/service/lageplan/plan/map/ccm_virchowweg_5/"
+    },
+    {
+        "id": 2146,
+        "titel": "Simulationsfläche 03 001",
+        "addresse": "Virchowweg 5",
+        "adresse": "Virchowweg 5",
+        "campus": "CCM",
+        "zugang": "wird vom Lernzentrum geöffnet",
+        "kontakt": "Lernzentrum Studiensekretariat (450 676132)",
+        "link": "http://www.charite.de/service/lageplan/plan/map/ccm_virchowweg_5/"
+    },
+    {
+        "id": 2136,
+        "titel": "Simulationsfläche 01 008a",
+        "addresse": "Virchowweg 5",
+        "adresse": "Virchowweg 5",
+        "campus": "CCM",
+        "zugang": "wird vom Lernzentrum geöffnet",
+        "kontakt": "Lernzentrum Studiensekretariat (450 676132)",
+        "link": "http://www.charite.de/service/lageplan/plan/map/ccm_virchowweg_5/"
+    }
+]

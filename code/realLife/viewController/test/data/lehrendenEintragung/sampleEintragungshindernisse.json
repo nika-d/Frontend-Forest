@@ -1,0 +1,217 @@
+{
+    "einTerminkonflikt": {
+        "___jsonComment___Name": "Loecke, Jonas",
+        "lehrendenId": "EQTAAlwEAK86Hu1r2twHixZ5s4=",
+        "terminId": "20212-1154-3._FS_13a-14a-1",
+        "alsLehrender": {
+            "terminKonflikte": [
+                {
+                    "terminId": "20212-315-alle-1",
+                    "terminBeschreibung": "MSM2 1. FS Modul 2, MW3, Seminar 1: Chemie der Kohlenhydrate"
+                }
+            ],
+            "qualifikationFehlt": null,
+            "lehrberechtigungFehlt": false,
+            "abweichenderLehrender": false,
+            "ungeplanteEinrichtung": false
+        },
+        "alsVertretung": {
+            "terminKonflikte": null,
+            "ungeplanteEinrichtung": false
+        }
+    },
+    "zweiTerminkonflikte": {
+        "___jsonComment___Name": "Schucke, Leo-Arnd",
+        "lehrendenId": "1L4QAL2s/nYpZGdPDjCIKbFcYn0=",
+        "terminId": "20212-1154-3._FS_13a-14a-1",
+        "alsLehrender": {
+            "terminKonflikte": [
+                {
+                    "terminId": "20212-315-alle-1",
+                    "terminBeschreibung": "MSM2 1. FS Modul 2, MW3, Seminar 1: Chemie der Kohlenhydrate"
+                },
+                {
+                    "terminId": "20212-320-30a-1",
+                    "terminBeschreibung": "MSM2 2. FS Modul 3, MW2, Seminar 1: Physik der Phenole"
+                }
+            ],
+            "qualifikationFehlt": null,
+            "lehrberechtigungFehlt": false,
+            "abweichenderLehrender": false,
+            "ungeplanteEinrichtung": false
+        },
+        "alsVertretung": {
+            "terminKonflikte": null,
+            "ungeplanteEinrichtung": false
+        }
+    },
+    "qualifikationFehlt": {
+        "___jsonComment___Name": "Wurz, Theodor",
+        "lehrendenId": "/GMbeLjaGxrTiVDUeyfQXfs3qds=",
+        "terminId": "20212-1154-3._FS_13a-14a-1",
+        "alsLehrender": {
+            "terminKonflikte": null,
+            "qualifikationFehlt": "POL",
+            "lehrberechtigungFehlt": false,
+            "abweichenderLehrender": false,
+            "ungeplanteEinrichtung": false
+        },
+        "alsVertretung": {
+            "terminKonflikte": null,
+            "ungeplanteEinrichtung": false
+        }
+    },
+    "lehrberechtigungFehlt": {
+        "___jsonComment___Name": "Temedais, Jannes",
+        "lehrendenId": "/H+hGIpWP/+9feuYrNceRr/uFwA=",
+        "terminId": "20212-1154-3._FS_13a-14a-1",
+        "alsLehrender": {
+            "terminKonflikte": [
+                {
+                    "terminId": "20212-315-alle-1",
+                    "terminBeschreibung": "MSM2 1.FS Modul 2, MW3, Seminar 1: Chemie der Kohlenhydrate"
+                }
+            ],
+            "qualifikationFehlt": "NOTFALL",
+            "lehrberechtigungFehlt": true,
+            "abweichenderLehrender": false,
+            "ungeplanteEinrichtung": true
+        },
+        "alsVertretung": {
+            "terminKonflikte": [
+                {
+                    "terminId": "20212-315-alle-1",
+                    "terminBeschreibung": "MSM2 1.FS Modul 2, MW3, Seminar 1: Chemie der Kohlenhydrate"
+                }
+            ],
+            "ungeplanteEinrichtung": true
+        }
+    },
+    "abweichenderLehrender": {
+        "___jsonComment___Name": "Jakob, Phillipp",
+        "lehrendenId": "uUIV6Y9Lkl4l2XeO8AZahQoYQtg=",
+        "terminId": "20212-1154-3._FS_13a-14a-1",
+        "alsLehrender": {
+            "terminKonflikte": null,
+            "qualifikationFehlt": null,
+            "lehrberechtigungFehlt": false,
+            "abweichenderLehrender": ["ID1"],
+            "ungeplanteEinrichtung": false
+        },
+        "alsVertretung": {
+            "terminKonflikte": null,
+            "ungeplanteEinrichtung": false
+        }
+    },
+    "unpassendeEinrichtung": {
+        "___jsonComment___Name": "von Velt, Nelly Alena",
+        "lehrendenId": "QRo9nwAx8SGOWpadQiEm8YkVcdU=",
+        "terminId": "20212-1154-3._FS_13a-14a-1",
+        "alsLehrender": {
+            "terminKonflikte": [],
+            "qualifikationFehlt": null,
+            "lehrberechtigungFehlt": false,
+            "abweichenderLehrender": false,
+            "ungeplanteEinrichtung": true
+        },
+        "alsVertretung": {
+            "terminKonflikte": [],
+            "ungeplanteEinrichtung": true
+        }
+    },
+    "terminKonfliktAlsVertretung": {
+        "___jsonComment___Name": "Ogtein, Mareen",
+        "lehrendenId": "hB9KgG6nRa8nqbsXsz3fweyQEII=",
+        "terminId": "20212-1154-3._FS_13a-14a-1",
+        "alsLehrender": {
+            "terminKonflikte": null,
+            "qualifikationFehlt": null,
+            "lehrberechtigungFehlt": false,
+            "abweichenderLehrender": false,
+            "ungeplanteEinrichtung": false
+        },
+        "alsVertretung": {
+            "terminKonflikte": [
+                {
+                    "terminId": "20212-315-alle-1",
+                    "terminBeschreibung": "MSM2 1. FS Modul 2, MW3, Seminar 1: Chemie der Kohlenhydrate"
+                }
+            ],
+            "ungeplanteEinrichtung": false
+        }
+    },
+    "ungeplanteEinrichtungAlsVertretung": {
+        "___jsonComment___Name": "Wilke, John P.",
+        "lehrendenId": "00kffxuZSKpBXX0CwMbDTL4eUwQ=",
+        "terminId": "20212-1154-3._FS_13a-14a-1",
+        "alsLehrender": {
+            "terminKonflikte": null,
+            "qualifikationFehlt": null,
+            "lehrberechtigungFehlt": false,
+            "abweichenderLehrender": false,
+            "ungeplanteEinrichtung": false
+        },
+        "alsVertretung": {
+            "terminKonflikte": null,
+            "ungeplanteEinrichtung": true
+        }
+    },
+    "alleProbleme": {
+        "___jsonComment___Name": "Bersenhain",
+        "lehrendenId": "zwcMJo2QaAhdIQKhYDhweTnM2vY=",
+        "terminId": "20212-1154-3._FS_13a-14a-1",
+        "alsLehrender": {
+            "terminKonflikte": [
+                {
+                    "terminId": "20212-315-alle-1",
+                    "terminBeschreibung": "MSM2 1. FS Modul 2, MW3, Seminar 1: Chemie der Kohlenhydrate"
+                }
+            ],
+            "qualifikationFehlt": "NOTFALL",
+            "lehrberechtigungFehlt": true,
+            "abweichenderLehrender": ["ID1"],
+            "ungeplanteEinrichtung": true
+        },
+        "alsVertretung": {
+            "terminKonflikte": [
+                {
+                    "terminId": "20212-315-alle-1",
+                    "terminBeschreibung": "MSM2 1. FS Modul 2, MW3, Seminar 1: Chemie der Kohlenhydrate"
+                }
+            ],
+            "ungeplanteEinrichtung": true
+        }
+    },
+    "eintragungsHindernisse1": {
+        "___jsonComment___Name": "Steinbock, Anna",
+        "lehrendenId": "miEw8zh2lzq+qTs1NyRFv2uai9k=",
+        "terminId": "20212-656-3._FS_13a-14a-2",
+        "alsLehrender": {
+            "terminKonflikte": null,
+            "qualifikationFehlt": null,
+            "lehrberechtigungFehlt": false,
+            "abweichenderLehrender": false,
+            "ungeplanteEinrichtung": true
+        },
+        "alsVertretung": {
+            "terminKonflikte": null,
+            "ungeplanteEinrichtung": false
+        }
+    },
+    "eintragungsHindernisse2": {
+        "___jsonComment___Name": "Niemann Verde, Nadine",
+        "lehrendenId": "LfzCBQmtPuM6COwe6gP1uiyBhfE=",
+        "terminId": "20212-222-1._FS_11b-14b-1",
+        "alsLehrender": {
+            "terminKonflikte": null,
+            "qualifikationFehlt": null,
+            "lehrberechtigungFehlt": true,
+            "abweichenderLehrender": ["some id"],
+            "ungeplanteEinrichtung": true
+        },
+        "alsVertretung": {
+            "terminKonflikte": null,
+            "ungeplanteEinrichtung": true
+        }
+    }
+}

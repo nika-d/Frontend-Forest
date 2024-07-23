@@ -1,0 +1,30 @@
+.DS_Store
+.thumbs.db
+node_modules
+.env.*.local
+!.env.example
+
+
+# Quasar core related directories
+.quasar
+/dist
+/quasar.config.*.temporary.compiled*
+
+# Log files
+npm-debug.log*
+
+# Editor directories and files
+.idea
+.vscode
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+
+# local .env files
+.env.local*
+
+test/cypress/screenshots
+test/cypress/videos
+coverage/
+generatedCss

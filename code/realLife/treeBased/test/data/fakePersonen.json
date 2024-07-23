@@ -1,0 +1,688 @@
+[
+    {
+        "id": "3RICDyet5hAwiobV92pylr2f8Sc=",
+        "titel": null,
+        "vorname": "Paul",
+        "nachname": "Hermann",
+        "email": "paul.hermann@charite.de",
+        "einrichtungsIds": [50],
+        "qualifikationen": [],
+        "aktiv": true
+    },
+    {
+        "id": "LfzCBQmtPuM6COwe6gP1uiyBhfE=",
+        "titel": null,
+        "vorname": "Nadine",
+        "nachname": "Niemann Verde",
+        "email": "nadine.niemann-verde@charite.de",
+        "einrichtungsIds": [128],
+        "qualifikationen": [],
+        "aktiv": true
+    },
+    {
+        "id": "GtewiDQDr9FWk1VUNHs/H08pzYg=",
+        "titel": "Dr. med. ",
+        "vorname": "Sarahlisa",
+        "nachname": "Terzibasian",
+        "email": "sarahlisa.terzibasian@charite.de",
+        "einrichtungsIds": [84, 12],
+        "qualifikationen": [],
+        "aktiv": true
+    },
+    {
+        "id": "1sZV79+BQhN/9NxirQ999IELjuY=",
+        "titel": null,
+        "vorname": "Alexandra",
+        "nachname": "de Almeida Mockacino",
+        "email": "ala.mocka@charite.de",
+        "einrichtungsIds": [12],
+        "qualifikationen": [],
+        "aktiv": true
+    },
+    {
+        "id": "ArRorQzPGkKIL3jgCGYRg76B2dw=",
+        "titel": "Dr.med.",
+        "vorname": "Elisabeth",
+        "nachname": "Gelatto",
+        "email": "elisabeth.gelatto@charite.de",
+        "einrichtungsIds": [10, 18],
+        "qualifikationen": [],
+        "aktiv": true
+    },
+    {
+        "id": "FEm1MQAyRPNc64z/IbxMdfU0LEI=",
+        "titel": "Dr.",
+        "vorname": "Agatha",
+        "nachname": "Rosshauer",
+        "email": "agatha.rosshauer@charite.de",
+        "einrichtungsIds": [12],
+        "qualifikationen": [],
+        "aktiv": true
+    },
+    {
+        "id": "miEw8zh2lzq+qTs1NyRFv2uai9k=",
+        "titel": "Dr.",
+        "vorname": "Anna",
+        "nachname": "Steinbock",
+        "email": "anna.steinbock@charite.de",
+        "einrichtungsIds": [12, 135],
+        "qualifikationen": [],
+        "aktiv": true
+    },
+    {
+        "id": "EQTAAlwEAK86Hu1r2twHixZ5s4=",
+        "titel": "Dr.",
+        "vorname": "Jonas",
+        "nachname": "Loecke",
+        "email": "jonas.loecke@charite.de",
+        "einrichtungsIds": [20],
+        "qualifikationen": [],
+        "aktiv": true
+    },
+    {
+        "id": "/Exybbq7iWZaUlpFbO1E6BVNY/A=",
+        "titel": "Prof. Dr.",
+        "vorname": "Ingo",
+        "nachname": "Vrin",
+        "email": "ingo.vrin@charite.de",
+        "einrichtungsIds": [15],
+        "qualifikationen": [],
+        "aktiv": true
+    },
+    {
+        "id": "/GClh6PSX2HNtYU0wyEfWe/CoE4=",
+        "titel": "Prof. Dr.",
+        "vorname": "Dario",
+        "nachname": "Blockner",
+        "email": "dario.blockner@charite.de",
+        "einrichtungsIds": [15],
+        "qualifikationen": [],
+        "aktiv": true
+    },
+    {
+        "id": "/GMbeLjaGxrTiVDUeyfQXfs3qds=",
+        "titel": "Dr.",
+        "vorname": "Theodor",
+        "nachname": "Wurz",
+        "email": "theodor.wurz@charite.de",
+        "einrichtungsIds": [12],
+        "qualifikationen": [],
+        "aktiv": true
+    },
+    {
+        "id": "/H+hGIpWP/+9feuYrNceRr/uFwA=",
+        "titel": "Dr. med.",
+        "vorname": "Jannes",
+        "nachname": "Temedais",
+        "email": "jannes.Temedais@charite.de",
+        "einrichtungsIds": [52],
+        "qualifikationen": [],
+        "aktiv": true
+    },
+    {
+        "id": "/K4Ysl4S4U9x4N7g+D/Vuw293iw=",
+        "titel": "Dr.",
+        "vorname": "Petra",
+        "nachname": "Mustermann",
+        "email": "petra.mustermann@charite.de",
+        "einrichtungsIds": [5, 120],
+        "qualifikationen": [],
+        "aktiv": true
+    },
+    {
+        "id": "/KXI3DufuRqk/SIzfWncdAjTf5A=",
+        "titel": null,
+        "vorname": "Hansi",
+        "nachname": "Hinterseer",
+        "email": "Hansi.Hinterseer@charite.de",
+        "einrichtungsIds": [10, 12],
+        "qualifikationen": [],
+        "aktiv": true
+    },
+    {
+        "id": "00J2lj6tJ8APwu6cztcUq5hiPcg=",
+        "titel": null,
+        "vorname": "Alexandra",
+        "nachname": "Bing",
+        "email": "alexandra.bing@charite.de",
+        "einrichtungsIds": [10, 12],
+        "qualifikationen": [],
+        "aktiv": true
+    },
+    {
+        "id": "00kffxuZSKpBXX0CwMbDTL4eUwQ=",
+        "titel": null,
+        "vorname": "John P.",
+        "nachname": "Wilke",
+        "email": "John.P.Wilke@charite.de",
+        "einrichtungsIds": [12],
+        "qualifikationen": [],
+        "aktiv": true
+    },
+    {
+        "id": "1L4QAL2s/nYpZGdPDjCIKbFcYn0=",
+        "titel": "Dr. med.",
+        "vorname": "Leo-Arnd",
+        "nachname": "Schucke",
+        "email": "leo-arnd.schucke@charite.de",
+        "einrichtungsIds": [39],
+        "qualifikationen": [],
+        "aktiv": true
+    },
+    {
+        "id": "uZP+h5qES3kmCjvNcw4gHWNi+aU=",
+        "titel": "Dr.",
+        "vorname": "Julia",
+        "nachname": "Kaiser",
+        "email": "julia.kaiser@charite.de",
+        "einrichtungsIds": [10, 12, 125],
+        "einrichtungsFunktionen": [
+            {
+                "einrichtungsId": 10,
+                "art": "lehrkoordination"
+            },
+            {
+                "einrichtungsId": 12,
+                "art": "lehrsekretariat"
+            },
+            {
+                "einrichtungsId": 125,
+                "art": "lehrkoordination"
+            }
+        ],
+        "qualifikationen": [],
+        "aktiv": true
+    },
+    {
+        "id": "uWYkjQYfFJ0ZNDLFvlyYtr7eIKA=",
+        "titel": "Dr.",
+        "vorname": "Mark",
+        "nachname": "Lagewiese",
+        "email": "mark.lagewiese@charite.de",
+        "einrichtungsIds": [39],
+        "qualifikationen": [],
+        "aktiv": true
+    },
+    {
+        "id": "uUIV6Y9Lkl4l2XeO8AZahQoYQtg=",
+        "titel": "Dr. med.",
+        "vorname": "Phillip",
+        "nachname": "Jakob",
+        "email": "phillip.jakob@charite.de",
+        "einrichtungsIds": [39, 10],
+        "qualifikationen": [],
+        "aktiv": true
+    },
+    {
+        "id": "BCRcOxcIuq31WCku45+xWwB8VT8=",
+        "titel": "Prof. Dr.",
+        "vorname": "Mick",
+        "nachname": "Weißdorn",
+        "email": "mick.weissdorn@charite.de",
+        "einrichtungsIds": [63],
+        "qualifikationen": [],
+        "aktiv": true
+    },
+    {
+        "id": "22cxrItF+ossyIQF5O1vcRXZD00=",
+        "titel": "Univ.-Prof. Dr.",
+        "vorname": "Markus",
+        "nachname": "Ohle",
+        "email": "markus.ohle@charite.de",
+        "einrichtungsIds": [16],
+        "qualifikationen": [],
+        "aktiv": true
+    },
+    {
+        "id": "JIelQztLfkT8TMvYj19PKzg2jGk=",
+        "titel": "Dr. med.",
+        "vorname": "Eduard",
+        "nachname": "Seifert",
+        "email": "eduard.seifert@charite.de",
+        "einrichtungsIds": [14],
+        "einrichtungsFunktionen": [],
+        "qualifikationen": ["pol", "notfall"],
+        "aktiv": true
+    },
+    {
+        "id": "Vwj9SJemoyohsY2FqZARrZoCgsE=",
+        "titel": "Prof. Dr.",
+        "vorname": "Veronika",
+        "nachname": "Siebert",
+        "email": "veronika.siebert@charite.de",
+        "einrichtungsIds": [71],
+        "einrichtungsFunktionen": [
+            {
+                "einrichtungsId": 71,
+                "art": "lehrkoordination"
+            }
+        ],
+        "qualifikationen": [],
+        "aktiv": true
+    },
+    {
+        "id": "BpBSj5jQwsu2f65U6QT7MBx1PCY=",
+        "titel": "Prof. Dr.",
+        "vorname": "Florian",
+        "nachname": "Leder",
+        "email": "florian.leder@charite.de",
+        "einrichtungsIds": [14, 78, 150],
+        "einrichtungsFunktionen": [],
+        "qualifikationen": ["pol"],
+        "aktiv": true
+    },
+    {
+        "id": "YOEkQpGoOyzuNKIznly385Efp9E=",
+        "titel": "Prof. Dr.",
+        "vorname": "Rainer",
+        "nachname": "Vrei",
+        "email": "rainer.vrei@charite.de",
+        "einrichtungsIds": [17],
+        "einrichtungsFunktionen": [],
+        "qualifikationen": [],
+        "aktiv": true
+    },
+    {
+        "id": "LR+CuN/q2L7xA9PuJCRrtm1k9OQ=",
+        "titel": "Dr. rer. nat.",
+        "vorname": "Theodor",
+        "nachname": "Wolfinger",
+        "email": "theodor.wolfinger@charite.de",
+        "einrichtungsIds": [16],
+        "einrichtungsFunktionen": [],
+        "qualifikationen": ["kit", "pol"],
+        "aktiv": true
+    },
+    {
+        "id": "Zwt7/NlQjO1RZRzVSniMryPEMBQ=",
+        "titel": "Prof. Dr.",
+        "vorname": "Gina",
+        "nachname": "Reiffeisen",
+        "email": "gina.reiffeisen@charite.de",
+        "einrichtungsIds": [17],
+        "einrichtungsFunktionen": [],
+        "qualifikationen": [],
+        "aktiv": true
+    },
+    {
+        "id": "k5mdTizcfeI5nVwRK/ydkiamQYQ=",
+        "titel": "Univ.-Prof. Dr.",
+        "vorname": "Sarah",
+        "nachname": "Lodringer",
+        "email": "sarah.lodringer@charite.de",
+        "einrichtungsIds": [17, 84],
+        "einrichtungsFunktionen": [],
+        "qualifikationen": ["kit"],
+        "aktiv": true
+    },
+    {
+        "id": "ext-000003",
+        "titel": "Prof. Dr.",
+        "vorname": "Olaf",
+        "nachname": "Gallert",
+        "email": "gallert@dhzb.de",
+        "einrichtungsIds": [134],
+        "einrichtungsFunktionen": [],
+        "qualifikationen": [],
+        "aktiv": true
+    },
+    {
+        "id": "QapY2+BJzLcR9N4Vh3hIgt9tB/I=",
+        "titel": "Dr.",
+        "vorname": "Veit",
+        "nachname": "Ahren",
+        "email": "veit.ahren@charite.de",
+        "einrichtungsIds": [34],
+        "einrichtungsFunktionen": [],
+        "qualifikationen": [],
+        "aktiv": true
+    },
+    {
+        "id": "0Cw6UlX19IE7J2oQis0uRLviZBs=",
+        "titel": "Dr. med.",
+        "vorname": "Friederik Laif",
+        "nachname": "Blume",
+        "email": "friederik-laif.blume@charite.de",
+        "einrichtungsIds": [70, 79],
+        "einrichtungsFunktionen": [],
+        "qualifikationen": [],
+        "aktiv": true
+    },
+    {
+        "id": "C9M7n5ZcpQb6xNZqNN7UI/W/pDY=",
+        "titel": "Dr. med.",
+        "vorname": "Peter",
+        "nachname": "Hollaender",
+        "email": "peter.hollaender@charite.de",
+        "einrichtungsIds": [128],
+        "einrichtungsFunktionen": [],
+        "qualifikationen": [],
+        "aktiv": true
+    },
+    {
+        "id": "Sow0c1c8F3lHAoMp+9QOpwm/qeU=",
+        "titel": "PD Dr.",
+        "vorname": "Martin",
+        "nachname": "Sambrot",
+        "email": "martin.sambrot@charite.de",
+        "einrichtungsIds": [70],
+        "einrichtungsFunktionen": [],
+        "qualifikationen": [],
+        "aktiv": true
+    },
+    {
+        "id": "jHkaJMalAkiGW0IDRDzbmnjhSi4=",
+        "titel": null,
+        "vorname": "Johannes",
+        "nachname": "Geller",
+        "email": "johannes.geller@charite.de",
+        "einrichtungsIds": [71, 150],
+        "einrichtungsFunktionen": [
+            {
+                "einrichtungsId": 150,
+                "art": "lehrkoordination"
+            }
+        ],
+        "qualifikationen": ["pol"],
+        "aktiv": true
+    },
+    {
+        "id": "Vsvr/KgSxYDXlIh8btnT5Smek2c=",
+        "titel": null,
+        "vorname": "Omik Jonas",
+        "nachname": "Sell\u00e1 Gur\u00f3",
+        "email": "omik.sella@charite.de",
+        "einrichtungsIds": [70, 125],
+        "einrichtungsFunktionen": [],
+        "qualifikationen": [],
+        "aktiv": true
+    },
+    {
+        "id": "71jK4hDB1MOob++pKbr0811ZSvg=",
+        "titel": "Dr. med.",
+        "vorname": "Alexandra",
+        "nachname": "Merkur",
+        "email": "alexandra.merkur@charite.de",
+        "einrichtungsIds": [71, 125],
+        "einrichtungsFunktionen": [],
+        "qualifikationen": [],
+        "aktiv": true
+    },
+    {
+        "id": "3ytMQ4UEPwPY2X3Q44jCMGsPam4=",
+        "titel": null,
+        "vorname": "Lennert",
+        "nachname": "Grausee",
+        "email": "lennert.grausee@charite.de",
+        "einrichtungsIds": [71],
+        "einrichtungsFunktionen": [],
+        "qualifikationen": [],
+        "aktiv": true
+    },
+    {
+        "id": "Pu/tCdUb721BA7FKN/UpkrnrA/U=",
+        "titel": null,
+        "vorname": "Lukas",
+        "nachname": "Robertson",
+        "email": "lukas.robertson@charite.de",
+        "einrichtungsIds": [149],
+        "einrichtungsFunktionen": [],
+        "qualifikationen": [],
+        "aktiv": true
+    },
+    {
+        "id": "y0rKJ0f0w2QEXRmH1XFgf1EubEM=",
+        "titel": "Dr. med.",
+        "vorname": "Emanuela",
+        "nachname": "Wotterer",
+        "email": "emanuela.wotterer@charite.de",
+        "einrichtungsIds": [64],
+        "einrichtungsFunktionen": [
+            {
+                "einrichtungsId": 64,
+                "art": "lehrkoordination"
+            }
+        ],
+        "qualifikationen": ["kit", "pol"],
+        "aktiv": true
+    },
+    {
+        "id": "1kbWjeEjM6p8eYpKbjWfeWtPBvs=",
+        "titel": "Prof. Dr.",
+        "vorname": "Markus",
+        "nachname": "Reis",
+        "email": "markus.reis@charite.de",
+        "einrichtungsIds": [64],
+        "einrichtungsFunktionen": [
+            {
+                "einrichtungsId": 64,
+                "art": "einrichtungsleitung"
+            }
+        ],
+        "qualifikationen": [],
+        "aktiv": true
+    },
+    {
+        "id": "wn+22pyDI5PpiCg5XL6g1z82bes=",
+        "titel": "PD Dr.",
+        "vorname": "Philipp",
+        "nachname": "Gut",
+        "email": "philipp.gut@charite.de",
+        "einrichtungsIds": [84, 163],
+        "einrichtungsFunktionen": [],
+        "qualifikationen": ["pol"],
+        "aktiv": true
+    },
+    {
+        "id": "0m3517efMl2rHAmZrfjF4AgJpes=",
+        "titel": null,
+        "vorname": "Janette",
+        "nachname": "Hamburg",
+        "email": "janette.hamburg@charite.de",
+        "einrichtungsIds": [24, 191],
+        "einrichtungsFunktionen": [],
+        "qualifikationen": ["pol"],
+        "aktiv": true
+    },
+    {
+        "id": "e4fTeuOayRTOOIIYN5iYmQDZWWA=",
+        "titel": "Dr.",
+        "vorname": "Lara Kerstin",
+        "nachname": "Siedler",
+        "email": "lara.siedler@charite.de",
+        "einrichtungsIds": [93],
+        "einrichtungsFunktionen": [],
+        "qualifikationen": ["pol"],
+        "aktiv": true
+    },
+    {
+        "id": "OkOEhfKlyxvWRBPgAzmp7JLf6eg=",
+        "titel": "Priv. Doz.",
+        "vorname": "Charlotte",
+        "nachname": "Eisert",
+        "email": "charlotte.eisert@charite.de",
+        "einrichtungsIds": [110],
+        "einrichtungsFunktionen": [],
+        "qualifikationen": ["pol"],
+        "aktiv": true
+    },
+    {
+        "id": "l0JcRToV4Us1+PifdWvvf2cSj1M=",
+        "titel": "Dr. rer. nat.",
+        "vorname": "Antonio",
+        "nachname": "Riebsch",
+        "email": "antonio.riebsch@charite.de",
+        "einrichtungsIds": [61],
+        "einrichtungsFunktionen": [],
+        "qualifikationen": ["pol"],
+        "aktiv": true
+    },
+    {
+        "id": "YI58DOdFSx0kE9aSoYJcE/AwMqE=",
+        "titel": "Dr. med.",
+        "vorname": "Sally",
+        "nachname": "Gummer-Bell",
+        "email": "sally.gummer-bell@charite.de",
+        "einrichtungsIds": [3],
+        "einrichtungsFunktionen": [
+            {
+                "einrichtungsId": 3,
+                "art": "lehrkoordination"
+            }
+        ],
+        "qualifikationen": ["kit", "pol"],
+        "aktiv": true
+    },
+    {
+        "id": "hB9KgG6nRa8nqbsXsz3fweyQEII=",
+        "titel": "Dr. med.",
+        "vorname": "Mareen",
+        "nachname": "Ogtein",
+        "email": "mareen.ogtein@charite.de",
+        "einrichtungsIds": [11],
+        "einrichtungsFunktionen": [],
+        "qualifikationen": ["kit"],
+        "aktiv": true
+    },
+    {
+        "id": "UjSzpEl7/vBAJcUQ7yqi5nZo7EA=",
+        "titel": null,
+        "vorname": "Clemens",
+        "nachname": "Brauer",
+        "email": "clemens.brauer@charite.de",
+        "einrichtungsIds": [175],
+        "einrichtungsFunktionen": [
+            {
+                "einrichtungsId": 175,
+                "art": "lehrkoordination"
+            },
+            {
+                "einrichtungsId": 175,
+                "art": "lehrsekretariat"
+            }
+        ],
+        "qualifikationen": ["kit"],
+        "aktiv": true
+    },
+    {
+        "id": "zwcMJo2QaAhdIQKhYDhweTnM2vY=",
+        "titel": "Dr. rer. medic.",
+        "vorname": "Antoinetta",
+        "nachname": "Bersenhain",
+        "email": "antoinetta.bersenhain@charite.de",
+        "einrichtungsIds": [9, 10],
+        "einrichtungsFunktionen": [],
+        "qualifikationen": ["kit", "pol"],
+        "aktiv": false
+    },
+    {
+        "id": "5C+z7rOzoiWIrTVSLQr2ZbtaxD8=",
+        "titel": "Prof. Dr.",
+        "vorname": "Viktor",
+        "nachname": "Klausthaler",
+        "email": "viktor.klausthaler@charite.de",
+        "einrichtungsIds": [64],
+        "einrichtungsFunktionen": [],
+        "qualifikationen": ["kit"],
+        "aktiv": false
+    },
+    {
+        "id": "74N4z3vjCmcbfUk4yDmJDdZF1Fs=",
+        "titel": "Prof.",
+        "vorname": "Raimund",
+        "nachname": "Schlegel",
+        "email": "raimund.schlegel@charite.de",
+        "einrichtungsIds": [13],
+        "einrichtungsFunktionen": [],
+        "qualifikationen": ["kit", "pol"],
+        "aktiv": true
+    },
+    {
+        "id": "48fukvqBk6I5aNrKYgS5Qa7qh7Q=",
+        "titel": "Dr. med.",
+        "vorname": "Carin",
+        "nachname": "Meierbeck",
+        "email": "carin.meierbeck@charite.de",
+        "einrichtungsIds": [125],
+        "einrichtungsFunktionen": [],
+        "qualifikationen": ["notfall", "pol"],
+        "aktiv": false
+    },
+    {
+        "id": "1ET5ZNblzI+1nQjyai95ivCDzLI=",
+        "titel": null,
+        "vorname": "Eluise-Mona",
+        "nachname": "Wittich",
+        "email": "eluise-mona.wittich@charite.de",
+        "einrichtungsIds": [196],
+        "einrichtungsFunktionen": [],
+        "qualifikationen": ["kit", "notfall"],
+        "aktiv": false
+    },
+    {
+        "id": "zERIJTMajIMPY2i5gXxUoqwgrus=",
+        "titel": "MUDr.",
+        "vorname": "Mecki",
+        "nachname": "Padering",
+        "email": "mecki.padering@charite.de",
+        "einrichtungsIds": [9, 70, 125],
+        "einrichtungsFunktionen": [],
+        "qualifikationen": ["notfall"],
+        "aktiv": false
+    },
+    {
+        "id": "Bpw4fD2sgCR5cv8na+f3ahWeCbY=",
+        "titel": "PD Dr.",
+        "vorname": "Andrea",
+        "nachname": "Thonau",
+        "email": "andrea.thonau@charite.de",
+        "einrichtungsIds": [196],
+        "einrichtungsFunktionen": [],
+        "qualifikationen": ["notfall"],
+        "aktiv": false
+    },
+    {
+        "id": "rzQfU5LVppJLS0pStTEGsvjDkAU=",
+        "titel": "Dr. med.",
+        "vorname": "Felizia",
+        "nachname": "Paul",
+        "email": "felizia.paul@charite.de",
+        "einrichtungsIds": [125],
+        "einrichtungsFunktionen": [],
+        "qualifikationen": ["notfall"],
+        "aktiv": true
+    },
+    {
+        "id": "QqJT0xHDbzu1RWzGdapwQZBRKjs=",
+        "titel": null,
+        "vorname": "Jessica",
+        "nachname": "Häusler",
+        "email": "jessica.haeusler@charite.de",
+        "einrichtungsIds": [196],
+        "einrichtungsFunktionen": [],
+        "qualifikationen": ["notfall", "pol"],
+        "aktiv": false
+    },
+    {
+        "id": "QRo9nwAx8SGOWpadQiEm8YkVcdU=",
+        "titel": null,
+        "vorname": "Nelly Alena",
+        "nachname": "von Velt",
+        "email": "nelly.von-velt@charite.de",
+        "einrichtungsIds": [125],
+        "einrichtungsFunktionen": [],
+        "qualifikationen": ["notfall"],
+        "aktiv": true
+    },
+    {
+        "id": "4Wu9lEDnWwwXIvUZcdy5bd3ZHfQ=",
+        "titel": "Dr. med.",
+        "vorname": "Theo",
+        "nachname": "Kluge",
+        "email": "theo.kluge@charite.de",
+        "einrichtungsIds": [125],
+        "einrichtungsFunktionen": [],
+        "qualifikationen": ["notfall"],
+        "aktiv": false
+    }
+]

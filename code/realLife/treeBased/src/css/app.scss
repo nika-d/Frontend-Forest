@@ -1,0 +1,22 @@
+// app global css in SCSS form
+
+html {
+    font-family: 'Charite';
+}
+
+body {
+    font-family: 'Charite';
+}
+
+@font-face {
+    font-family: 'Charite';
+    src:
+        local('Charite'),
+        url('https://lernziele.charite.de/charite-font/ChariteTextBeta03-Light.woff2') format('woff2');
+}
+
+.q-table th {
+    background: $grey-2;
+    font-weight: bolder;
+    color: $grey-8;
+}

@@ -1,0 +1,14 @@
+{
+    "lehrendenId": "",
+    "alsLehrender": {
+        "terminKonflikte": null,
+        "qualifikationFehlt": null,
+        "lehrberechtigungFehlt": false,
+        "abweichenderLehrender": false,
+        "ungeplanteEinrichtung": false
+    },
+    "alsVertretung": {
+        "terminKonflikte": null,
+        "ungeplanteEinrichtung": false
+    }
+}

@@ -1,0 +1,447 @@
+[
+    {
+        "id": "20212-1154-3._FS_13a-14a-1",
+        "veranstaltungsId": 77619,
+        "raumId": null,
+        "start": "2021-11-30T12:30:00+01:00",
+        "ende": "2021-11-30T14:00:00+01:00",
+        "campus": "eLive",
+        "gruppenbezeichnung": "13a-14a",
+        "lehrTaetigkeiten": [
+            {
+                "id": 53835,
+                "personId": "ArRorQzPGkKIL3jgCGYRg76B2dw=",
+                "einrichtungsId": 10,
+                "ungeplanteEinrichtung": false
+            }
+        ],
+        "vertretungen": [],
+        "geplanteEinrichtungen": [11, 10, 12],
+        "noetigeQualifikationen": ["pol"],
+        "ohneLehrendeMitMeinerGeplantenEinrichtung": false
+    },
+    {
+        "id": "20212-534-3._FS_1a-30b-1",
+        "veranstaltungsId": 77630,
+        "raumId": null,
+        "treffpunkt": "bei schönem Wetter kann auch am CMM draußen am Brunnen persönlich teilgenenommen werden",
+        "start": "2021-12-06T08:15:00+01:00",
+        "ende": "2021-12-06T09:45:00+01:00",
+        "campus": "eLive",
+        "gruppenbezeichnung": "1a-30b",
+        "lehrTaetigkeiten": [
+            {
+                "id": 72956,
+                "personId": "FEm1MQAyRPNc64z/IbxMdfU0LEI=",
+                "einrichtungsId": 12,
+                "ungeplanteEinrichtung": true
+            }
+        ],
+        "vertretungen": [],
+        "geplanteEinrichtungen": [10],
+        "noetigeQualifikationen": [],
+        "ohneLehrendeMitMeinerGeplantenEinrichtung": false
+    },
+    {
+        "id": "20212-532-3._FS_11b-14b-1",
+        "veranstaltungsId": 77634,
+        "raumId": null,
+        "start": "2021-12-06T12:00:00+01:00",
+        "ende": "2021-12-06T13:30:00+01:00",
+        "campus": "eLive",
+        "gruppenbezeichnung": "11b-14b",
+        "lehrTaetigkeiten": [
+            {
+                "id": 72938,
+                "personId": "FEm1MQAyRPNc64z/IbxMdfU0LEI=",
+                "einrichtungsId": 12,
+                "ungeplanteEinrichtung": true
+            }
+        ],
+        "vertretungen": [],
+        "geplanteEinrichtungen": [10],
+        "noetigeQualifikationen": [],
+        "ohneLehrendeMitMeinerGeplantenEinrichtung": false
+    },
+    {
+        "id": "20212-1154-3._FS_13a-14a-2",
+        "veranstaltungsId": 77619,
+        "raumId": null,
+        "start": "2021-12-07T12:00:00+01:00",
+        "ende": "2021-12-07T13:30:00+01:00",
+        "campus": "eLive",
+        "gruppenbezeichnung": "13a-14a",
+        "lehrTaetigkeiten": [
+            {
+                "id": 53836,
+                "personId": "ArRorQzPGkKIL3jgCGYRg76B2dw=",
+                "einrichtungsId": 10,
+                "ungeplanteEinrichtung": false
+            }
+        ],
+        "vertretungen": [],
+        "geplanteEinrichtungen": [12, 11, 10],
+        "noetigeQualifikationen": ["pol"],
+        "ohneLehrendeMitMeinerGeplantenEinrichtung": false
+    },
+    {
+        "id": "20212-656-3._FS_13a-14a-1",
+        "veranstaltungsId": 77629,
+        "raumId": null,
+        "start": "2021-12-07T13:30:00+01:00",
+        "ende": "2021-12-07T15:00:00+01:00",
+        "campus": "eLive",
+        "gruppenbezeichnung": "13a-14a",
+        "lehrTaetigkeiten": [
+            {
+                "id": 74702,
+                "personId": "ArRorQzPGkKIL3jgCGYRg76B2dw=",
+                "einrichtungsId": 10,
+                "ungeplanteEinrichtung": true
+            }
+        ],
+        "vertretungen": [],
+        "geplanteEinrichtungen": [18],
+        "noetigeQualifikationen": ["pol"],
+        "ohneLehrendeMitMeinerGeplantenEinrichtung": false
+    },
+    {
+        "id": "20212-33805-3._FS_11a-13a-1",
+        "veranstaltungsId": 77637,
+        "raumId": null,
+        "start": "2021-12-09T10:45:00+01:00",
+        "ende": "2021-12-09T13:45:00+01:00",
+        "campus": "CCM",
+        "gruppenbezeichnung": "11a-13a",
+        "lehrTaetigkeiten": [
+            {
+                "id": 67433,
+                "personId": "miEw8zh2lzq+qTs1NyRFv2uai9k=",
+                "einrichtungsId": 12,
+                "ungeplanteEinrichtung": true
+            }
+        ],
+        "vertretungen": [],
+        "geplanteEinrichtungen": [10],
+        "noetigeQualifikationen": [],
+        "ohneLehrendeMitMeinerGeplantenEinrichtung": false
+    },
+    {
+        "id": "20212-656-3._FS_13a-14a-2",
+        "veranstaltungsId": 77629,
+        "raumId": null,
+        "start": "2022-01-05T10:30:00+01:00",
+        "ende": "2022-01-05T12:00:00+01:00",
+        "campus": "eLive",
+        "gruppenbezeichnung": "13a-14a",
+        "lehrTaetigkeiten": [],
+        "vertretungen": [
+            {
+                "id": 74703,
+                "personId": "ArRorQzPGkKIL3jgCGYRg76B2dw=",
+                "einrichtungsId": 18,
+                "ungeplanteEinrichtung": false
+            }
+        ],
+        "geplanteEinrichtungen": [10, 12, 11],
+        "noetigeQualifikationen": ["pol"],
+        "ohneLehrendeMitMeinerGeplantenEinrichtung": true
+    },
+    {
+        "id": "20212-1313-1._FS_13a-14a-1",
+        "veranstaltungsId": 76959,
+        "raumId": 1001,
+        "start": "2022-01-10T14:30:00+01:00",
+        "ende": "2022-01-10T16:00:00+01:00",
+        "campus": "eLive",
+        "gruppenbezeichnung": "28, 43, 60, 62",
+        "lehrTaetigkeiten": [
+            {
+                "id": 54510,
+                "personId": "LfzCBQmtPuM6COwe6gP1uiyBhfE=",
+                "einrichtungsId": 128,
+                "ungeplanteEinrichtung": false
+            }
+        ],
+        "vertretungen": [],
+        "geplanteEinrichtungen": [128],
+        "noetigeQualifikationen": ["pol"],
+        "ohneLehrendeMitMeinerGeplantenEinrichtung": false
+    },
+    {
+        "id": "20212-222-1._FS_11b-14b-1",
+        "veranstaltungsId": 76967,
+        "raumId": 1001,
+        "start": "2022-01-13T12:15:00+01:00",
+        "ende": "2022-01-13T13:45:00+01:00",
+        "campus": "eLive",
+        "gruppenbezeichnung": "11b-14b",
+        "lehrTaetigkeiten": [
+            {
+                "id": 63039,
+                "personId": "GtewiDQDr9FWk1VUNHs/H08pzYg=",
+                "einrichtungsId": 84,
+                "ungeplanteEinrichtung": false
+            },
+            {
+                "id": 487542,
+                "personId": "1sZV79+BQhN/9NxirQ999IELjuY=",
+                "einrichtungsId": 12,
+                "ungeplanteEinrichtung": true
+            }
+        ],
+        "vertretungen": [],
+        "geplanteEinrichtungen": [84],
+        "noetigeQualifikationen": [],
+        "ohneLehrendeMitMeinerGeplantenEinrichtung": false
+    },
+    {
+        "id": "20212-1313-1._FS_13a-14a-2",
+        "veranstaltungsId": 76959,
+        "raumId": null,
+        "start": "2022-01-17T13:00:00+01:00",
+        "ende": "2022-01-17T14:30:00+01:00",
+        "campus": "eLive",
+        "gruppenbezeichnung": "13a-14a",
+        "lehrTaetigkeiten": [
+            {
+                "id": 54511,
+                "personId": "LfzCBQmtPuM6COwe6gP1uiyBhfE=",
+                "einrichtungsId": 128,
+                "ungeplanteEinrichtung": true
+            }
+        ],
+        "vertretungen": [
+            {
+                "id": 63042,
+                "personId": "GtewiDQDr9FWk1VUNHs/H08pzYg=",
+                "einrichtungsId": 84,
+                "ungeplanteEinrichtung": false
+            }
+        ],
+        "geplanteEinrichtungen": [84],
+        "noetigeQualifikationen": ["pol"],
+        "ohneLehrendeMitMeinerGeplantenEinrichtung": false
+    },
+    {
+        "id": "20212-502-1._FS_13a-14a-1",
+        "veranstaltungsId": 76972,
+        "raumId": 1001,
+        "start": "2022-01-17T14:30:00+01:00",
+        "ende": "2022-01-17T16:00:00+01:00",
+        "campus": "eLive",
+        "gruppenbezeichnung": "13a-14a",
+        "lehrTaetigkeiten": [],
+        "vertretungen": [],
+        "geplanteEinrichtungen": [10],
+        "noetigeQualifikationen": ["pol"],
+        "ohneLehrendeMitMeinerGeplantenEinrichtung": true
+    },
+    {
+        "id": "20212-502-1._FS_13a-14a-2",
+        "veranstaltungsId": 76972,
+        "raumId": 1001,
+        "start": "2022-01-24T13:00:00+01:00",
+        "ende": "2022-01-24T14:30:00+01:00",
+        "campus": "eLive",
+        "gruppenbezeichnung": "13a-14a",
+        "lehrTaetigkeiten": [],
+        "vertretungen": [],
+        "geplanteEinrichtungen": [9],
+        "noetigeQualifikationen": ["pol"],
+        "ohneLehrendeMitMeinerGeplantenEinrichtung": true
+    },
+    {
+        "id": "20222-80165-Bapfluelle_Studienordnung_1._FS_18,_Msm2_2019_1._FS_48a-48b-1",
+        "veranstaltungsId": 88655,
+        "raumId": 2137,
+        "treffpunkt": null,
+        "start": "2022-10-26T08:15:00+02:00",
+        "ende": "2022-10-26T09:45:00+02:00",
+        "campus": "CCM",
+        "gruppenbezeichnung": "18,48a-48b",
+        "lehrTaetigkeiten": [
+            {
+                "id": 451096,
+                "personId": "zERIJTMajIMPY2i5gXxUoqwgrus=",
+                "einrichtungsId": 125,
+                "ungeplanteEinrichtung": false
+            },
+            {
+                "id": 551765,
+                "personId": "Bpw4fD2sgCR5cv8na+f3ahWeCbY=",
+                "einrichtungsId": 196,
+                "ungeplanteEinrichtung": true
+            }
+        ],
+        "vertretungen": [],
+        "geplanteEinrichtungen": [125],
+        "noetigeQualifikationen": ["notfall"],
+        "ohneLehrendeMitMeinerGeplantenEinrichtung": false
+    },
+    {
+        "id": "20222-80165-Bapfluelle_Studienordnung_1._FS_21,_Msm2_2019_1._FS_51a-51b-1",
+        "veranstaltungsId": 88655,
+        "raumId": 2146,
+        "treffpunkt": null,
+        "start": "2022-10-27T08:15:00+02:00",
+        "ende": "2022-10-27T09:45:00+02:00",
+        "campus": "CCM",
+        "gruppenbezeichnung": "21,51a-51b",
+        "lehrTaetigkeiten": [
+            {
+                "id": 474879,
+                "personId": "rzQfU5LVppJLS0pStTEGsvjDkAU=",
+                "einrichtungsId": 125,
+                "ungeplanteEinrichtung": false
+            },
+            {
+                "id": 561290,
+                "personId": "QqJT0xHDbzu1RWzGdapwQZBRKjs=",
+                "einrichtungsId": 196,
+                "ungeplanteEinrichtung": true
+            }
+        ],
+        "vertretungen": [],
+        "geplanteEinrichtungen": [125],
+        "noetigeQualifikationen": ["notfall"],
+        "ohneLehrendeMitMeinerGeplantenEinrichtung": false
+    },
+    {
+        "id": "20222-80165-Bapfluelle_Studienordnung_1._FS_7,_Msm2_2019_1._FS_26a-26b-1",
+        "veranstaltungsId": 88655,
+        "raumId": 2146,
+        "treffpunkt": null,
+        "start": "2022-11-02T08:15:00+01:00",
+        "ende": "2022-11-02T09:45:00+01:00",
+        "campus": "CCM",
+        "gruppenbezeichnung": "7,26a-26b",
+        "lehrTaetigkeiten": [
+            {
+                "id": 474880,
+                "personId": "rzQfU5LVppJLS0pStTEGsvjDkAU=",
+                "einrichtungsId": 125,
+                "ungeplanteEinrichtung": false
+            },
+            {
+                "id": 563325,
+                "personId": "1ET5ZNblzI+1nQjyai95ivCDzLI=",
+                "einrichtungsId": 196,
+                "ungeplanteEinrichtung": true
+            }
+        ],
+        "vertretungen": [],
+        "geplanteEinrichtungen": [125],
+        "noetigeQualifikationen": ["notfall"],
+        "ohneLehrendeMitMeinerGeplantenEinrichtung": false
+    },
+    {
+        "id": "20222-80165-Bapfluelle_Studienordnung_1._FS_10,_Msm2_2019_1._FS_29a-29b-1",
+        "veranstaltungsId": 88655,
+        "raumId": 2138,
+        "treffpunkt": null,
+        "start": "2022-11-03T08:15:00+01:00",
+        "ende": "2022-11-03T09:45:00+01:00",
+        "campus": "CCM",
+        "gruppenbezeichnung": "10,29a-29b",
+        "lehrTaetigkeiten": [
+            {
+                "id": 304549,
+                "personId": "48fukvqBk6I5aNrKYgS5Qa7qh7Q=",
+                "einrichtungsId": 125,
+                "ungeplanteEinrichtung": false
+            },
+            {
+                "id": 563324,
+                "personId": "1ET5ZNblzI+1nQjyai95ivCDzLI=",
+                "einrichtungsId": 196,
+                "ungeplanteEinrichtung": true
+            }
+        ],
+        "vertretungen": [],
+        "geplanteEinrichtungen": [125],
+        "noetigeQualifikationen": ["notfall"],
+        "ohneLehrendeMitMeinerGeplantenEinrichtung": false
+    },
+    {
+        "id": "20222-80165-Msm2_2019_1._FS_4a-5a-1",
+        "veranstaltungsId": 88655,
+        "raumId": 2147,
+        "treffpunkt": null,
+        "start": "2022-11-07T12:15:00+01:00",
+        "ende": "2022-11-07T13:45:00+01:00",
+        "campus": "CCM",
+        "gruppenbezeichnung": "4a-5a",
+        "lehrTaetigkeiten": [
+            {
+                "id": 434429,
+                "personId": "QRo9nwAx8SGOWpadQiEm8YkVcdU=",
+                "einrichtungsId": 125,
+                "ungeplanteEinrichtung": false
+            }
+        ],
+        "vertretungen": [],
+        "geplanteEinrichtungen": [125],
+        "noetigeQualifikationen": ["notfall"],
+        "ohneLehrendeMitMeinerGeplantenEinrichtung": false
+    },
+    {
+        "id": "20222-80165-Msm2_2019_1._FS_11b-12b-1",
+        "veranstaltungsId": 88655,
+        "raumId": 2147,
+        "treffpunkt": null,
+        "start": "2022-11-08T13:00:00+01:00",
+        "ende": "2022-11-08T14:30:00+01:00",
+        "campus": "CCM",
+        "gruppenbezeichnung": "11b-12b",
+        "lehrTaetigkeiten": [
+            {
+                "id": 434428,
+                "personId": "QRo9nwAx8SGOWpadQiEm8YkVcdU=",
+                "einrichtungsId": 125,
+                "ungeplanteEinrichtung": false
+            }
+        ],
+        "vertretungen": [],
+        "geplanteEinrichtungen": [125],
+        "noetigeQualifikationen": ["notfall"],
+        "ohneLehrendeMitMeinerGeplantenEinrichtung": false
+    },
+    {
+        "id": "20222-80165-Msm2_2019_1._FS_14b-15b-1",
+        "veranstaltungsId": 88655,
+        "raumId": 2146,
+        "treffpunkt": null,
+        "start": "2022-11-09T08:15:00+01:00",
+        "ende": "2022-11-09T09:45:00+01:00",
+        "campus": "CCM",
+        "gruppenbezeichnung": "14b-15b",
+        "lehrTaetigkeiten": [],
+        "vertretungen": [],
+        "geplanteEinrichtungen": [125],
+        "noetigeQualifikationen": ["notfall"],
+        "ohneLehrendeMitMeinerGeplantenEinrichtung": true
+    },
+    {
+        "id": "20222-80165-Msm2_2019_1._FS_17b-18b-1",
+        "veranstaltungsId": 88655,
+        "raumId": 2136,
+        "treffpunkt": null,
+        "start": "2022-11-10T08:15:00+01:00",
+        "ende": "2022-11-10T09:45:00+01:00",
+        "campus": "CCM",
+        "gruppenbezeichnung": "17b-18b",
+        "lehrTaetigkeiten": [
+            {
+                "id": 491077,
+                "personId": "4Wu9lEDnWwwXIvUZcdy5bd3ZHfQ=",
+                "einrichtungsId": 125,
+                "ungeplanteEinrichtung": false
+            }
+        ],
+        "vertretungen": [],
+        "geplanteEinrichtungen": [125],
+        "noetigeQualifikationen": ["notfall"],
+        "ohneLehrendeMitMeinerGeplantenEinrichtung": false
+    }
+]

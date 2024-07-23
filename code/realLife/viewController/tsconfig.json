@@ -1,0 +1,23 @@
+{
+    "extends": "@quasar/app-vite/tsconfig-preset",
+    "compilerOptions": {
+        "baseUrl": "./",
+        "target": "ES6",
+        "paths": {
+            "$src": ["./src"],
+            "$src/*": ["./src/*"],
+            "$test": ["./test"],
+            "$test/*": ["./test/*"]
+        },
+        "module": "es2022",
+        "moduleResolution": "node",
+        "resolveJsonModule": true,
+        "allowSyntheticDefaultImports": true,
+        "importsNotUsedAsValues": "remove",
+        "sourceMap": true,
+        "lib": ["es2021", "dom"]
+    },
+    "allowSyntheticDefaultImports": true,
+    "include": ["src/**/*.js", "src/**/*.ts", "src/**/*.vue", "test/**/*.ts"],
+    "exclude": ["node_modules/**"]
+}
